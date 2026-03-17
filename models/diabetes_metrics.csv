@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,auc,cv_accuracy
+Logistic Regression,0.7208,0.617,0.537,0.5743,0.8306,0.7801
+Random Forest,0.7403,0.6458,0.5741,0.6078,0.8269,0.7509
+Gradient Boosting,0.7597,0.6735,0.6111,0.6408,0.8337,0.7638
+SVM,0.7403,0.6522,0.5556,0.6,0.7824,0.772

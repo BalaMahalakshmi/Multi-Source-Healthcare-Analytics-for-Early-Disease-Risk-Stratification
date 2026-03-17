@@ -1,0 +1,1689 @@
+patient_index,disease,risk_score_pct,risk_category,predicted_label,actual_label,correct
+1,Heart Disease,30.4,Medium Risk,0,0,True
+2,Heart Disease,91.9,High Risk,1,1,True
+3,Heart Disease,93.5,High Risk,1,1,True
+4,Heart Disease,38.0,Medium Risk,0,0,True
+5,Heart Disease,7.4,Low Risk,0,0,True
+6,Heart Disease,27.2,Low Risk,0,0,True
+7,Heart Disease,84.6,High Risk,1,1,True
+8,Heart Disease,53.2,Medium Risk,1,0,False
+9,Heart Disease,89.8,High Risk,1,1,True
+10,Heart Disease,87.5,High Risk,1,1,True
+11,Heart Disease,16.2,Low Risk,0,0,True
+12,Heart Disease,20.8,Low Risk,0,0,True
+13,Heart Disease,45.1,Medium Risk,0,1,False
+14,Heart Disease,6.8,Low Risk,0,0,True
+15,Heart Disease,16.2,Low Risk,0,0,True
+16,Heart Disease,20.4,Low Risk,0,0,True
+17,Heart Disease,17.8,Low Risk,0,1,False
+18,Heart Disease,36.4,Medium Risk,0,0,True
+19,Heart Disease,3.6,Low Risk,0,0,True
+20,Heart Disease,9.3,Low Risk,0,0,True
+21,Heart Disease,50.0,Medium Risk,0,0,True
+22,Heart Disease,11.1,Low Risk,0,0,True
+23,Heart Disease,70.1,High Risk,1,1,True
+24,Heart Disease,75.3,High Risk,1,1,True
+25,Heart Disease,95.1,High Risk,1,1,True
+26,Heart Disease,5.9,Low Risk,0,0,True
+27,Heart Disease,4.3,Low Risk,0,0,True
+28,Heart Disease,26.9,Low Risk,0,0,True
+29,Heart Disease,21.1,Low Risk,0,0,True
+30,Heart Disease,87.2,High Risk,1,1,True
+31,Heart Disease,16.2,Low Risk,0,0,True
+32,Heart Disease,84.6,High Risk,1,1,True
+33,Heart Disease,33.8,Medium Risk,0,1,False
+34,Heart Disease,50.0,Medium Risk,0,0,True
+35,Heart Disease,32.1,Medium Risk,0,0,True
+36,Heart Disease,8.3,Low Risk,0,0,True
+37,Heart Disease,88.6,High Risk,1,1,True
+38,Heart Disease,90.9,High Risk,1,1,True
+39,Heart Disease,94.1,High Risk,1,1,True
+40,Heart Disease,69.8,High Risk,1,0,False
+41,Heart Disease,84.6,High Risk,1,1,True
+42,Heart Disease,21.9,Low Risk,0,0,True
+43,Heart Disease,24.0,Low Risk,0,0,True
+44,Heart Disease,60.4,High Risk,1,0,False
+45,Heart Disease,32.1,Medium Risk,0,1,False
+46,Heart Disease,66.5,High Risk,1,1,True
+47,Heart Disease,22.4,Low Risk,0,0,True
+48,Heart Disease,85.2,High Risk,1,1,True
+49,Heart Disease,17.3,Low Risk,0,0,True
+50,Heart Disease,16.2,Low Risk,0,0,True
+51,Heart Disease,12.4,Low Risk,0,0,True
+52,Heart Disease,43.6,Medium Risk,0,0,True
+53,Heart Disease,54.6,Medium Risk,1,1,True
+54,Heart Disease,8.8,Low Risk,0,0,True
+55,Heart Disease,93.4,High Risk,1,1,True
+56,Heart Disease,93.9,High Risk,1,1,True
+57,Heart Disease,10.2,Low Risk,0,1,False
+58,Heart Disease,79.6,High Risk,1,1,True
+59,Heart Disease,16.2,Low Risk,0,0,True
+60,Heart Disease,46.0,Medium Risk,0,0,True
+61,Heart Disease,70.0,High Risk,1,1,True
+62,Heart Disease,16.2,Low Risk,0,0,True
+63,Heart Disease,94.2,High Risk,1,1,True
+64,Heart Disease,16.1,Low Risk,0,0,True
+65,Heart Disease,64.6,High Risk,1,1,True
+66,Heart Disease,95.1,High Risk,1,1,True
+67,Heart Disease,72.0,High Risk,1,1,True
+68,Heart Disease,26.1,Low Risk,0,0,True
+69,Heart Disease,93.6,High Risk,1,1,True
+70,Heart Disease,72.6,High Risk,1,1,True
+71,Heart Disease,13.0,Low Risk,0,0,True
+72,Heart Disease,84.6,High Risk,1,1,True
+73,Heart Disease,90.3,High Risk,1,1,True
+74,Heart Disease,82.6,High Risk,1,1,True
+75,Heart Disease,74.3,High Risk,1,1,True
+76,Heart Disease,16.2,Low Risk,0,0,True
+77,Heart Disease,94.6,High Risk,1,1,True
+78,Heart Disease,10.9,Low Risk,0,0,True
+79,Heart Disease,11.5,Low Risk,0,0,True
+80,Heart Disease,91.7,High Risk,1,1,True
+81,Heart Disease,79.3,High Risk,1,0,False
+82,Heart Disease,21.7,Low Risk,0,0,True
+83,Heart Disease,9.1,Low Risk,0,0,True
+84,Heart Disease,58.7,Medium Risk,1,1,True
+85,Heart Disease,14.3,Low Risk,0,0,True
+86,Heart Disease,6.4,Low Risk,0,0,True
+87,Heart Disease,8.7,Low Risk,0,0,True
+88,Heart Disease,12.0,Low Risk,0,0,True
+89,Heart Disease,23.1,Low Risk,0,0,True
+90,Heart Disease,4.3,Low Risk,0,0,True
+91,Heart Disease,83.4,High Risk,1,0,False
+92,Heart Disease,84.9,High Risk,1,1,True
+93,Heart Disease,66.2,High Risk,1,0,False
+94,Heart Disease,13.2,Low Risk,0,0,True
+95,Heart Disease,8.3,Low Risk,0,0,True
+96,Heart Disease,82.2,High Risk,1,1,True
+97,Heart Disease,85.9,High Risk,1,1,True
+98,Heart Disease,77.5,High Risk,1,1,True
+99,Heart Disease,16.2,Low Risk,0,0,True
+100,Heart Disease,39.0,Medium Risk,0,0,True
+101,Heart Disease,45.4,Medium Risk,0,0,True
+102,Heart Disease,21.0,Low Risk,0,0,True
+103,Heart Disease,20.3,Low Risk,0,0,True
+104,Heart Disease,16.2,Low Risk,0,0,True
+105,Heart Disease,34.2,Medium Risk,0,1,False
+106,Heart Disease,17.8,Low Risk,0,0,True
+107,Heart Disease,57.2,Medium Risk,1,1,True
+108,Heart Disease,22.9,Low Risk,0,1,False
+109,Heart Disease,93.7,High Risk,1,1,True
+110,Heart Disease,41.0,Medium Risk,0,1,False
+111,Heart Disease,84.6,High Risk,1,1,True
+112,Heart Disease,89.0,High Risk,1,1,True
+113,Heart Disease,18.4,Low Risk,0,0,True
+114,Heart Disease,84.6,High Risk,1,1,True
+115,Heart Disease,20.5,Low Risk,0,1,False
+116,Heart Disease,6.9,Low Risk,0,0,True
+117,Heart Disease,16.2,Low Risk,0,0,True
+118,Heart Disease,16.1,Low Risk,0,0,True
+119,Heart Disease,92.0,High Risk,1,1,True
+120,Heart Disease,95.3,High Risk,1,1,True
+121,Heart Disease,83.0,High Risk,1,1,True
+122,Heart Disease,84.6,High Risk,1,1,True
+123,Heart Disease,49.2,Medium Risk,0,0,True
+124,Heart Disease,86.5,High Risk,1,1,True
+125,Heart Disease,27.8,Low Risk,0,1,False
+126,Heart Disease,5.7,Low Risk,0,0,True
+127,Heart Disease,85.0,High Risk,1,1,True
+128,Heart Disease,87.4,High Risk,1,1,True
+129,Heart Disease,6.8,Low Risk,0,0,True
+130,Heart Disease,16.2,Low Risk,0,0,True
+131,Heart Disease,15.6,Low Risk,0,0,True
+132,Heart Disease,40.5,Medium Risk,0,0,True
+133,Heart Disease,10.4,Low Risk,0,0,True
+134,Heart Disease,62.2,High Risk,1,0,False
+135,Heart Disease,2.9,Low Risk,0,0,True
+136,Heart Disease,15.6,Low Risk,0,0,True
+137,Heart Disease,85.4,High Risk,1,1,True
+138,Heart Disease,84.0,High Risk,1,1,True
+139,Heart Disease,84.6,High Risk,1,1,True
+140,Heart Disease,25.1,Low Risk,0,0,True
+141,Heart Disease,64.2,High Risk,1,0,False
+142,Heart Disease,38.7,Medium Risk,0,1,False
+143,Heart Disease,19.2,Low Risk,0,0,True
+144,Heart Disease,85.5,High Risk,1,1,True
+145,Heart Disease,33.4,Medium Risk,0,0,True
+146,Heart Disease,10.1,Low Risk,0,1,False
+147,Heart Disease,84.6,High Risk,1,1,True
+148,Heart Disease,8.6,Low Risk,0,0,True
+149,Heart Disease,16.2,Low Risk,0,0,True
+150,Heart Disease,4.7,Low Risk,0,0,True
+151,Heart Disease,31.9,Medium Risk,0,0,True
+152,Heart Disease,16.1,Low Risk,0,0,True
+153,Heart Disease,16.2,Low Risk,0,0,True
+154,Heart Disease,88.8,High Risk,1,1,True
+155,Heart Disease,93.7,High Risk,1,1,True
+156,Heart Disease,95.7,High Risk,1,1,True
+157,Heart Disease,84.6,High Risk,1,1,True
+158,Heart Disease,65.9,High Risk,1,1,True
+159,Heart Disease,76.0,High Risk,1,1,True
+160,Heart Disease,53.5,Medium Risk,1,0,False
+161,Heart Disease,26.5,Low Risk,0,0,True
+162,Heart Disease,86.5,High Risk,1,1,True
+163,Heart Disease,8.1,Low Risk,0,0,True
+164,Heart Disease,17.1,Low Risk,0,0,True
+165,Heart Disease,15.6,Low Risk,0,0,True
+166,Heart Disease,80.4,High Risk,1,0,False
+167,Heart Disease,9.0,Low Risk,0,0,True
+168,Heart Disease,34.7,Medium Risk,0,0,True
+169,Heart Disease,83.6,High Risk,1,1,True
+170,Heart Disease,16.1,Low Risk,0,0,True
+171,Heart Disease,84.6,High Risk,1,1,True
+172,Heart Disease,85.2,High Risk,1,0,False
+173,Heart Disease,80.4,High Risk,1,1,True
+174,Heart Disease,57.3,Medium Risk,1,0,False
+175,Heart Disease,91.4,High Risk,1,1,True
+176,Heart Disease,88.8,High Risk,1,1,True
+177,Heart Disease,36.6,Medium Risk,0,0,True
+178,Heart Disease,91.2,High Risk,1,1,True
+179,Heart Disease,23.4,Low Risk,0,0,True
+180,Heart Disease,8.5,Low Risk,0,0,True
+181,Heart Disease,52.4,Medium Risk,1,1,True
+182,Heart Disease,82.7,High Risk,1,1,True
+183,Heart Disease,11.2,Low Risk,0,0,True
+184,Heart Disease,60.4,High Risk,1,0,False
+185,Heart Disease,53.9,Medium Risk,1,1,True
+186,Heart Disease,14.7,Low Risk,0,0,True
+187,Heart Disease,16.1,Low Risk,0,0,True
+188,Heart Disease,84.6,High Risk,1,1,True
+189,Heart Disease,56.7,Medium Risk,1,1,True
+190,Heart Disease,66.8,High Risk,1,1,True
+191,Heart Disease,7.4,Low Risk,0,0,True
+192,Heart Disease,94.5,High Risk,1,1,True
+193,Heart Disease,84.6,High Risk,1,1,True
+194,Heart Disease,77.7,High Risk,1,1,True
+195,Heart Disease,32.9,Medium Risk,0,0,True
+196,Heart Disease,85.0,High Risk,1,1,True
+197,Heart Disease,45.5,Medium Risk,0,0,True
+198,Heart Disease,46.2,Medium Risk,0,0,True
+199,Heart Disease,4.1,Low Risk,0,0,True
+200,Heart Disease,45.1,Medium Risk,0,1,False
+201,Heart Disease,14.0,Low Risk,0,0,True
+202,Heart Disease,81.2,High Risk,1,0,False
+203,Heart Disease,16.2,Low Risk,0,0,True
+204,Heart Disease,10.9,Low Risk,0,0,True
+205,Heart Disease,23.6,Low Risk,0,0,True
+206,Heart Disease,75.7,High Risk,1,1,True
+207,Heart Disease,94.9,High Risk,1,1,True
+208,Heart Disease,76.1,High Risk,1,1,True
+209,Heart Disease,16.5,Low Risk,0,0,True
+210,Heart Disease,84.6,High Risk,1,1,True
+211,Heart Disease,5.0,Low Risk,0,0,True
+212,Heart Disease,56.0,Medium Risk,1,1,True
+213,Heart Disease,16.6,Low Risk,0,0,True
+214,Heart Disease,84.6,High Risk,1,1,True
+215,Heart Disease,31.1,Medium Risk,0,1,False
+216,Heart Disease,40.2,Medium Risk,0,0,True
+217,Heart Disease,4.9,Low Risk,0,0,True
+218,Heart Disease,46.2,Medium Risk,0,0,True
+219,Heart Disease,43.1,Medium Risk,0,0,True
+220,Heart Disease,60.7,High Risk,1,0,False
+221,Heart Disease,12.8,Low Risk,0,0,True
+222,Heart Disease,4.7,Low Risk,0,0,True
+223,Heart Disease,15.9,Low Risk,0,0,True
+224,Heart Disease,91.3,High Risk,1,1,True
+225,Heart Disease,48.5,Medium Risk,0,1,False
+226,Heart Disease,9.7,Low Risk,0,0,True
+227,Heart Disease,28.1,Low Risk,0,0,True
+228,Heart Disease,13.6,Low Risk,0,0,True
+229,Heart Disease,85.8,High Risk,1,1,True
+230,Heart Disease,84.6,High Risk,1,1,True
+231,Heart Disease,12.4,Low Risk,0,0,True
+232,Heart Disease,85.6,High Risk,1,1,True
+233,Heart Disease,54.3,Medium Risk,1,1,True
+234,Heart Disease,36.0,Medium Risk,0,0,True
+235,Heart Disease,10.9,Low Risk,0,0,True
+236,Heart Disease,93.3,High Risk,1,1,True
+237,Heart Disease,88.7,High Risk,1,1,True
+238,Heart Disease,61.9,High Risk,1,1,True
+239,Heart Disease,3.4,Low Risk,0,0,True
+240,Heart Disease,7.7,Low Risk,0,0,True
+241,Heart Disease,10.1,Low Risk,0,0,True
+242,Heart Disease,3.1,Low Risk,0,0,True
+243,Heart Disease,7.1,Low Risk,0,0,True
+244,Heart Disease,80.8,High Risk,1,1,True
+245,Heart Disease,20.2,Low Risk,0,0,True
+246,Heart Disease,84.6,High Risk,1,1,True
+247,Heart Disease,46.3,Medium Risk,0,1,False
+248,Heart Disease,88.2,High Risk,1,1,True
+249,Heart Disease,40.2,Medium Risk,0,1,False
+250,Heart Disease,41.5,Medium Risk,0,0,True
+251,Heart Disease,85.1,High Risk,1,0,False
+252,Heart Disease,87.9,High Risk,1,1,True
+253,Heart Disease,86.7,High Risk,1,0,False
+254,Heart Disease,3.5,Low Risk,0,0,True
+255,Heart Disease,32.2,Medium Risk,0,0,True
+256,Heart Disease,3.2,Low Risk,0,0,True
+257,Heart Disease,19.0,Low Risk,0,0,True
+258,Heart Disease,21.4,Low Risk,0,0,True
+259,Heart Disease,63.5,High Risk,1,0,False
+260,Heart Disease,27.3,Low Risk,0,1,False
+261,Heart Disease,3.9,Low Risk,0,0,True
+262,Heart Disease,20.8,Low Risk,0,1,False
+263,Heart Disease,13.0,Low Risk,0,0,True
+264,Heart Disease,6.3,Low Risk,0,0,True
+265,Heart Disease,92.1,High Risk,1,1,True
+266,Heart Disease,91.8,High Risk,1,1,True
+267,Heart Disease,85.5,High Risk,1,1,True
+268,Heart Disease,83.2,High Risk,1,1,True
+269,Heart Disease,8.3,Low Risk,0,1,False
+270,Heart Disease,6.2,Low Risk,0,0,True
+271,Heart Disease,93.6,High Risk,1,1,True
+272,Heart Disease,89.1,High Risk,1,0,False
+273,Heart Disease,91.0,High Risk,1,1,True
+274,Heart Disease,46.9,Medium Risk,0,0,True
+275,Heart Disease,41.3,Medium Risk,0,1,False
+276,Heart Disease,44.7,Medium Risk,0,0,True
+277,Heart Disease,14.6,Low Risk,0,0,True
+278,Heart Disease,4.4,Low Risk,0,0,True
+279,Heart Disease,32.8,Medium Risk,0,1,False
+280,Heart Disease,16.2,Low Risk,0,0,True
+281,Heart Disease,89.1,High Risk,1,1,True
+282,Heart Disease,6.1,Low Risk,0,0,True
+283,Heart Disease,72.0,High Risk,1,1,True
+284,Heart Disease,15.1,Low Risk,0,0,True
+285,Heart Disease,40.6,Medium Risk,0,1,False
+286,Heart Disease,89.9,High Risk,1,1,True
+287,Heart Disease,87.2,High Risk,1,1,True
+288,Heart Disease,30.8,Medium Risk,0,0,True
+289,Heart Disease,27.0,Low Risk,0,0,True
+290,Heart Disease,18.0,Low Risk,0,0,True
+291,Heart Disease,51.7,Medium Risk,1,1,True
+292,Heart Disease,7.4,Low Risk,0,0,True
+293,Heart Disease,84.6,High Risk,1,1,True
+294,Heart Disease,91.0,High Risk,1,1,True
+295,Heart Disease,56.5,Medium Risk,1,1,True
+296,Heart Disease,15.4,Low Risk,0,0,True
+297,Heart Disease,84.6,High Risk,1,1,True
+298,Heart Disease,77.7,High Risk,1,1,True
+299,Heart Disease,34.2,Medium Risk,0,1,False
+300,Heart Disease,86.5,High Risk,1,1,True
+301,Heart Disease,85.5,High Risk,1,1,True
+302,Heart Disease,10.6,Low Risk,0,1,False
+303,Heart Disease,8.5,Low Risk,0,0,True
+304,Heart Disease,23.9,Low Risk,0,0,True
+305,Heart Disease,10.1,Low Risk,0,0,True
+306,Heart Disease,5.7,Low Risk,0,0,True
+307,Heart Disease,16.2,Low Risk,0,0,True
+308,Heart Disease,16.1,Low Risk,0,0,True
+309,Heart Disease,21.3,Low Risk,0,0,True
+310,Heart Disease,13.6,Low Risk,0,0,True
+311,Heart Disease,9.4,Low Risk,0,0,True
+312,Heart Disease,8.4,Low Risk,0,0,True
+313,Heart Disease,9.3,Low Risk,0,0,True
+314,Heart Disease,6.2,Low Risk,0,0,True
+315,Heart Disease,16.2,Low Risk,0,0,True
+316,Heart Disease,16.2,Low Risk,0,0,True
+317,Heart Disease,15.8,Low Risk,0,0,True
+318,Heart Disease,16.2,Low Risk,0,0,True
+319,Heart Disease,5.1,Low Risk,0,0,True
+320,Heart Disease,17.5,Low Risk,0,0,True
+321,Heart Disease,16.2,Low Risk,0,0,True
+322,Heart Disease,5.4,Low Risk,0,0,True
+323,Heart Disease,11.4,Low Risk,0,0,True
+324,Heart Disease,6.4,Low Risk,0,0,True
+325,Heart Disease,4.9,Low Risk,0,0,True
+326,Heart Disease,16.1,Low Risk,0,0,True
+327,Heart Disease,19.5,Low Risk,0,0,True
+328,Heart Disease,8.9,Low Risk,0,0,True
+329,Heart Disease,17.8,Low Risk,0,0,True
+330,Heart Disease,14.8,Low Risk,0,0,True
+331,Heart Disease,6.5,Low Risk,0,0,True
+332,Heart Disease,6.2,Low Risk,0,0,True
+333,Heart Disease,9.9,Low Risk,0,0,True
+334,Heart Disease,15.5,Low Risk,0,0,True
+335,Heart Disease,27.6,Low Risk,0,0,True
+336,Heart Disease,51.8,Medium Risk,1,0,False
+337,Heart Disease,9.4,Low Risk,0,0,True
+338,Heart Disease,9.8,Low Risk,0,0,True
+339,Heart Disease,16.2,Low Risk,0,0,True
+340,Heart Disease,10.9,Low Risk,0,0,True
+341,Heart Disease,17.5,Low Risk,0,0,True
+342,Heart Disease,33.2,Medium Risk,0,0,True
+343,Heart Disease,17.6,Low Risk,0,0,True
+344,Heart Disease,5.9,Low Risk,0,0,True
+345,Heart Disease,4.6,Low Risk,0,0,True
+346,Heart Disease,6.8,Low Risk,0,0,True
+347,Heart Disease,5.6,Low Risk,0,0,True
+348,Heart Disease,5.4,Low Risk,0,0,True
+349,Heart Disease,6.0,Low Risk,0,0,True
+350,Heart Disease,7.4,Low Risk,0,0,True
+351,Heart Disease,2.6,Low Risk,0,0,True
+352,Heart Disease,9.8,Low Risk,0,0,True
+353,Heart Disease,7.2,Low Risk,0,0,True
+354,Heart Disease,8.1,Low Risk,0,0,True
+355,Heart Disease,24.1,Low Risk,0,0,True
+356,Heart Disease,7.8,Low Risk,0,0,True
+357,Heart Disease,11.7,Low Risk,0,0,True
+358,Heart Disease,11.2,Low Risk,0,0,True
+359,Heart Disease,6.3,Low Risk,0,0,True
+360,Heart Disease,50.0,Medium Risk,0,0,True
+361,Heart Disease,13.1,Low Risk,0,0,True
+362,Heart Disease,12.5,Low Risk,0,0,True
+363,Heart Disease,9.9,Low Risk,0,0,True
+364,Heart Disease,3.0,Low Risk,0,0,True
+365,Heart Disease,5.2,Low Risk,0,0,True
+366,Heart Disease,4.9,Low Risk,0,0,True
+367,Heart Disease,6.8,Low Risk,0,0,True
+368,Heart Disease,7.8,Low Risk,0,0,True
+369,Heart Disease,5.2,Low Risk,0,0,True
+370,Heart Disease,6.1,Low Risk,0,0,True
+371,Heart Disease,15.4,Low Risk,0,0,True
+372,Heart Disease,20.9,Low Risk,0,0,True
+373,Heart Disease,7.2,Low Risk,0,0,True
+374,Heart Disease,19.9,Low Risk,0,0,True
+375,Heart Disease,2.9,Low Risk,0,0,True
+376,Heart Disease,15.8,Low Risk,0,0,True
+377,Heart Disease,6.6,Low Risk,0,0,True
+378,Heart Disease,29.7,Low Risk,0,0,True
+379,Heart Disease,14.3,Low Risk,0,0,True
+380,Heart Disease,20.5,Low Risk,0,0,True
+381,Heart Disease,11.0,Low Risk,0,0,True
+382,Heart Disease,20.1,Low Risk,0,0,True
+383,Heart Disease,47.2,Medium Risk,0,0,True
+384,Heart Disease,7.7,Low Risk,0,0,True
+385,Heart Disease,16.2,Low Risk,0,0,True
+386,Heart Disease,79.0,High Risk,1,0,False
+387,Heart Disease,22.4,Low Risk,0,0,True
+388,Heart Disease,16.2,Low Risk,0,0,True
+389,Heart Disease,6.7,Low Risk,0,0,True
+390,Heart Disease,8.4,Low Risk,0,0,True
+391,Heart Disease,19.1,Low Risk,0,0,True
+392,Heart Disease,7.1,Low Risk,0,0,True
+393,Heart Disease,77.7,High Risk,1,0,False
+394,Heart Disease,14.6,Low Risk,0,0,True
+395,Heart Disease,22.0,Low Risk,0,0,True
+396,Heart Disease,3.8,Low Risk,0,0,True
+397,Heart Disease,7.3,Low Risk,0,0,True
+398,Heart Disease,35.3,Medium Risk,0,0,True
+399,Heart Disease,15.4,Low Risk,0,0,True
+400,Heart Disease,70.0,High Risk,1,0,False
+401,Heart Disease,16.6,Low Risk,0,0,True
+402,Heart Disease,6.6,Low Risk,0,0,True
+403,Heart Disease,17.7,Low Risk,0,0,True
+404,Heart Disease,11.4,Low Risk,0,0,True
+405,Heart Disease,3.9,Low Risk,0,0,True
+406,Heart Disease,3.9,Low Risk,0,0,True
+407,Heart Disease,3.5,Low Risk,0,0,True
+408,Heart Disease,7.6,Low Risk,0,0,True
+409,Heart Disease,12.8,Low Risk,0,0,True
+410,Heart Disease,6.0,Low Risk,0,0,True
+411,Heart Disease,46.2,Medium Risk,0,0,True
+412,Heart Disease,16.2,Low Risk,0,0,True
+413,Heart Disease,4.1,Low Risk,0,0,True
+414,Heart Disease,77.7,High Risk,1,0,False
+415,Heart Disease,15.7,Low Risk,0,0,True
+416,Heart Disease,6.7,Low Risk,0,0,True
+417,Heart Disease,21.2,Low Risk,0,0,True
+418,Heart Disease,24.7,Low Risk,0,0,True
+419,Heart Disease,72.4,High Risk,1,0,False
+420,Heart Disease,13.0,Low Risk,0,0,True
+421,Heart Disease,11.7,Low Risk,0,0,True
+422,Heart Disease,27.4,Low Risk,0,0,True
+423,Heart Disease,13.4,Low Risk,0,0,True
+424,Heart Disease,13.3,Low Risk,0,0,True
+425,Heart Disease,9.0,Low Risk,0,0,True
+426,Heart Disease,34.6,Medium Risk,0,0,True
+427,Heart Disease,3.6,Low Risk,0,0,True
+428,Heart Disease,6.3,Low Risk,0,0,True
+429,Heart Disease,3.6,Low Risk,0,0,True
+430,Heart Disease,52.3,Medium Risk,1,0,False
+431,Heart Disease,18.3,Low Risk,0,0,True
+432,Heart Disease,55.2,Medium Risk,1,0,False
+433,Heart Disease,9.1,Low Risk,0,0,True
+434,Heart Disease,16.2,Low Risk,0,0,True
+435,Heart Disease,14.1,Low Risk,0,0,True
+436,Heart Disease,58.9,Medium Risk,1,0,False
+437,Heart Disease,4.0,Low Risk,0,0,True
+438,Heart Disease,14.4,Low Risk,0,0,True
+439,Heart Disease,11.4,Low Risk,0,0,True
+440,Heart Disease,9.1,Low Risk,0,0,True
+441,Heart Disease,89.0,High Risk,1,0,False
+442,Heart Disease,22.6,Low Risk,0,0,True
+443,Heart Disease,17.3,Low Risk,0,0,True
+444,Heart Disease,5.6,Low Risk,0,0,True
+445,Heart Disease,14.5,Low Risk,0,0,True
+446,Heart Disease,6.5,Low Risk,0,0,True
+447,Heart Disease,6.8,Low Risk,0,0,True
+448,Heart Disease,10.6,Low Risk,0,0,True
+449,Heart Disease,9.5,Low Risk,0,0,True
+450,Heart Disease,12.6,Low Risk,0,0,True
+451,Heart Disease,43.2,Medium Risk,0,0,True
+452,Heart Disease,16.6,Low Risk,0,0,True
+453,Heart Disease,13.1,Low Risk,0,0,True
+454,Heart Disease,20.5,Low Risk,0,0,True
+455,Heart Disease,17.8,Low Risk,0,0,True
+456,Heart Disease,13.3,Low Risk,0,0,True
+457,Heart Disease,13.8,Low Risk,0,0,True
+458,Heart Disease,18.7,Low Risk,0,0,True
+459,Heart Disease,44.2,Medium Risk,0,0,True
+460,Heart Disease,7.2,Low Risk,0,0,True
+461,Heart Disease,3.5,Low Risk,0,0,True
+462,Heart Disease,10.1,Low Risk,0,0,True
+463,Heart Disease,48.0,Medium Risk,0,0,True
+464,Heart Disease,6.0,Low Risk,0,0,True
+465,Heart Disease,19.1,Low Risk,0,0,True
+466,Heart Disease,16.1,Low Risk,0,0,True
+467,Heart Disease,19.6,Low Risk,0,0,True
+468,Heart Disease,40.5,Medium Risk,0,0,True
+469,Heart Disease,86.6,High Risk,1,0,False
+470,Heart Disease,9.6,Low Risk,0,0,True
+471,Heart Disease,22.4,Low Risk,0,0,True
+472,Heart Disease,28.5,Low Risk,0,0,True
+473,Heart Disease,77.4,High Risk,1,0,False
+474,Heart Disease,62.6,High Risk,1,0,False
+475,Heart Disease,16.2,Low Risk,0,0,True
+476,Heart Disease,79.6,High Risk,1,0,False
+477,Heart Disease,57.5,Medium Risk,1,0,False
+478,Heart Disease,21.8,Low Risk,0,0,True
+479,Heart Disease,37.5,Medium Risk,0,0,True
+480,Heart Disease,7.4,Low Risk,0,0,True
+481,Heart Disease,59.0,Medium Risk,1,0,False
+482,Heart Disease,11.2,Low Risk,0,0,True
+483,Heart Disease,23.4,Low Risk,0,0,True
+484,Heart Disease,83.4,High Risk,1,0,False
+485,Heart Disease,53.7,Medium Risk,1,0,False
+486,Heart Disease,40.4,Medium Risk,0,0,True
+487,Heart Disease,23.4,Low Risk,0,0,True
+488,Heart Disease,79.1,High Risk,1,0,False
+489,Heart Disease,81.5,High Risk,1,0,False
+490,Heart Disease,16.1,Low Risk,0,0,True
+491,Heart Disease,44.6,Medium Risk,0,0,True
+492,Heart Disease,84.6,High Risk,1,1,True
+493,Heart Disease,67.7,High Risk,1,1,True
+494,Heart Disease,16.4,Low Risk,0,1,False
+495,Heart Disease,16.7,Low Risk,0,1,False
+496,Heart Disease,40.5,Medium Risk,0,1,False
+497,Heart Disease,79.8,High Risk,1,1,True
+498,Heart Disease,55.4,Medium Risk,1,1,True
+499,Heart Disease,18.6,Low Risk,0,1,False
+500,Heart Disease,84.6,High Risk,1,1,True
+501,Heart Disease,91.6,High Risk,1,1,True
+502,Heart Disease,23.5,Low Risk,0,1,False
+503,Heart Disease,84.6,High Risk,1,1,True
+504,Heart Disease,87.4,High Risk,1,1,True
+505,Heart Disease,76.9,High Risk,1,1,True
+506,Heart Disease,49.0,Medium Risk,0,1,False
+507,Heart Disease,88.7,High Risk,1,1,True
+508,Heart Disease,31.2,Medium Risk,0,1,False
+509,Heart Disease,87.5,High Risk,1,1,True
+510,Heart Disease,53.6,Medium Risk,1,1,True
+511,Heart Disease,76.2,High Risk,1,1,True
+512,Heart Disease,83.8,High Risk,1,1,True
+513,Heart Disease,15.1,Low Risk,0,1,False
+514,Heart Disease,10.5,Low Risk,0,1,False
+515,Heart Disease,16.4,Low Risk,0,1,False
+516,Heart Disease,36.4,Medium Risk,0,1,False
+517,Heart Disease,14.3,Low Risk,0,1,False
+518,Heart Disease,74.7,High Risk,1,1,True
+519,Heart Disease,93.3,High Risk,1,1,True
+520,Heart Disease,32.2,Medium Risk,0,1,False
+521,Heart Disease,77.8,High Risk,1,1,True
+522,Heart Disease,94.2,High Risk,1,1,True
+523,Heart Disease,84.6,High Risk,1,1,True
+524,Heart Disease,36.1,Medium Risk,0,1,False
+525,Heart Disease,84.6,High Risk,1,1,True
+526,Heart Disease,64.7,High Risk,1,1,True
+527,Heart Disease,66.6,High Risk,1,1,True
+528,Heart Disease,84.6,High Risk,1,1,True
+529,Heart Disease,79.7,High Risk,1,1,True
+530,Heart Disease,82.9,High Risk,1,1,True
+531,Heart Disease,30.6,Medium Risk,0,1,False
+532,Heart Disease,34.0,Medium Risk,0,1,False
+533,Heart Disease,31.0,Medium Risk,0,1,False
+534,Heart Disease,84.6,High Risk,1,1,True
+535,Heart Disease,84.3,High Risk,1,1,True
+536,Heart Disease,30.5,Medium Risk,0,1,False
+537,Heart Disease,88.5,High Risk,1,1,True
+538,Heart Disease,88.6,High Risk,1,1,True
+539,Heart Disease,86.2,High Risk,1,1,True
+540,Heart Disease,88.7,High Risk,1,1,True
+541,Heart Disease,93.0,High Risk,1,1,True
+542,Heart Disease,36.9,Medium Risk,0,1,False
+543,Heart Disease,85.9,High Risk,1,1,True
+544,Heart Disease,85.1,High Risk,1,1,True
+545,Heart Disease,65.0,High Risk,1,1,True
+546,Heart Disease,89.6,High Risk,1,1,True
+547,Heart Disease,90.4,High Risk,1,1,True
+548,Heart Disease,83.1,High Risk,1,1,True
+549,Heart Disease,84.6,High Risk,1,1,True
+550,Heart Disease,92.3,High Risk,1,1,True
+551,Heart Disease,89.8,High Risk,1,1,True
+552,Heart Disease,91.3,High Risk,1,1,True
+553,Heart Disease,84.6,High Risk,1,1,True
+554,Heart Disease,94.6,High Risk,1,1,True
+555,Heart Disease,48.3,Medium Risk,0,1,False
+556,Heart Disease,81.4,High Risk,1,1,True
+557,Heart Disease,84.6,High Risk,1,1,True
+558,Heart Disease,91.5,High Risk,1,1,True
+559,Heart Disease,39.0,Medium Risk,0,1,False
+560,Heart Disease,13.6,Low Risk,0,1,False
+561,Heart Disease,84.6,High Risk,1,1,True
+562,Heart Disease,92.3,High Risk,1,1,True
+563,Heart Disease,83.6,High Risk,1,1,True
+564,Heart Disease,34.2,Medium Risk,0,1,False
+565,Heart Disease,82.4,High Risk,1,1,True
+566,Heart Disease,90.7,High Risk,1,1,True
+567,Heart Disease,95.0,High Risk,1,1,True
+568,Heart Disease,86.5,High Risk,1,1,True
+569,Heart Disease,65.4,High Risk,1,1,True
+570,Heart Disease,82.3,High Risk,1,1,True
+571,Heart Disease,74.3,High Risk,1,1,True
+572,Heart Disease,28.4,Low Risk,0,1,False
+573,Heart Disease,84.6,High Risk,1,1,True
+574,Heart Disease,91.0,High Risk,1,1,True
+575,Heart Disease,4.7,Low Risk,0,1,False
+576,Heart Disease,90.3,High Risk,1,1,True
+577,Heart Disease,90.9,High Risk,1,1,True
+578,Heart Disease,84.7,High Risk,1,1,True
+579,Heart Disease,50.0,Medium Risk,0,1,False
+580,Heart Disease,84.6,High Risk,1,1,True
+581,Heart Disease,82.5,High Risk,1,1,True
+582,Heart Disease,89.6,High Risk,1,1,True
+583,Heart Disease,91.0,High Risk,1,1,True
+584,Heart Disease,89.1,High Risk,1,1,True
+585,Heart Disease,59.1,Medium Risk,1,1,True
+586,Heart Disease,82.7,High Risk,1,1,True
+587,Heart Disease,89.2,High Risk,1,1,True
+588,Heart Disease,84.6,High Risk,1,1,True
+589,Heart Disease,59.9,Medium Risk,1,1,True
+590,Heart Disease,91.4,High Risk,1,1,True
+591,Heart Disease,93.0,High Risk,1,1,True
+592,Heart Disease,92.3,High Risk,1,1,True
+593,Heart Disease,90.1,High Risk,1,1,True
+594,Heart Disease,75.0,High Risk,1,1,True
+595,Heart Disease,92.4,High Risk,1,1,True
+596,Heart Disease,84.6,High Risk,1,1,True
+597,Heart Disease,86.3,High Risk,1,1,True
+598,Heart Disease,56.9,Medium Risk,1,1,True
+599,Heart Disease,90.9,High Risk,1,1,True
+600,Heart Disease,91.7,High Risk,1,1,True
+601,Heart Disease,94.3,High Risk,1,1,True
+602,Heart Disease,74.2,High Risk,1,1,True
+603,Heart Disease,79.5,High Risk,1,1,True
+604,Heart Disease,47.0,Medium Risk,0,0,True
+605,Heart Disease,84.6,High Risk,1,1,True
+606,Heart Disease,81.5,High Risk,1,1,True
+607,Heart Disease,85.6,High Risk,1,1,True
+608,Heart Disease,84.6,High Risk,1,1,True
+609,Heart Disease,88.0,High Risk,1,1,True
+610,Heart Disease,93.5,High Risk,1,1,True
+611,Heart Disease,85.4,High Risk,1,1,True
+612,Heart Disease,89.1,High Risk,1,1,True
+613,Heart Disease,92.2,High Risk,1,1,True
+614,Heart Disease,84.6,High Risk,1,1,True
+615,Heart Disease,62.1,High Risk,1,0,False
+616,Heart Disease,84.6,High Risk,1,1,True
+617,Heart Disease,92.3,High Risk,1,1,True
+618,Heart Disease,84.6,High Risk,1,1,True
+619,Heart Disease,84.6,High Risk,1,1,True
+620,Heart Disease,89.4,High Risk,1,1,True
+621,Heart Disease,84.6,High Risk,1,1,True
+622,Heart Disease,90.5,High Risk,1,1,True
+623,Heart Disease,69.1,High Risk,1,1,True
+624,Heart Disease,94.1,High Risk,1,1,True
+625,Heart Disease,92.8,High Risk,1,1,True
+626,Heart Disease,87.2,High Risk,1,1,True
+627,Heart Disease,84.6,High Risk,1,1,True
+628,Heart Disease,84.6,High Risk,1,1,True
+629,Heart Disease,85.0,High Risk,1,1,True
+630,Heart Disease,82.6,High Risk,1,1,True
+631,Heart Disease,80.7,High Risk,1,1,True
+632,Heart Disease,81.8,High Risk,1,1,True
+633,Heart Disease,89.4,High Risk,1,1,True
+634,Heart Disease,82.8,High Risk,1,1,True
+635,Heart Disease,92.9,High Risk,1,1,True
+636,Heart Disease,88.1,High Risk,1,1,True
+637,Heart Disease,88.4,High Risk,1,1,True
+638,Heart Disease,77.7,High Risk,1,1,True
+639,Heart Disease,69.0,High Risk,1,0,False
+640,Heart Disease,64.7,High Risk,1,1,True
+641,Heart Disease,84.6,High Risk,1,1,True
+642,Heart Disease,88.0,High Risk,1,1,True
+643,Heart Disease,91.5,High Risk,1,1,True
+644,Heart Disease,93.0,High Risk,1,1,True
+645,Heart Disease,81.9,High Risk,1,0,False
+646,Heart Disease,90.3,High Risk,1,1,True
+647,Heart Disease,93.2,High Risk,1,1,True
+648,Heart Disease,84.6,High Risk,1,1,True
+649,Heart Disease,53.0,Medium Risk,1,0,False
+650,Heart Disease,89.6,High Risk,1,1,True
+651,Heart Disease,84.6,High Risk,1,1,True
+652,Heart Disease,84.6,High Risk,1,1,True
+653,Heart Disease,70.0,High Risk,1,0,False
+654,Heart Disease,74.4,High Risk,1,1,True
+655,Heart Disease,76.2,High Risk,1,1,True
+656,Heart Disease,84.4,High Risk,1,1,True
+657,Heart Disease,88.9,High Risk,1,1,True
+658,Heart Disease,82.7,High Risk,1,1,True
+659,Heart Disease,90.3,High Risk,1,1,True
+660,Heart Disease,88.1,High Risk,1,1,True
+661,Heart Disease,64.6,High Risk,1,1,True
+662,Heart Disease,87.9,High Risk,1,1,True
+663,Heart Disease,88.5,High Risk,1,1,True
+664,Heart Disease,87.6,High Risk,1,1,True
+665,Heart Disease,90.8,High Risk,1,1,True
+666,Heart Disease,88.9,High Risk,1,1,True
+667,Heart Disease,89.1,High Risk,1,1,True
+668,Heart Disease,89.6,High Risk,1,1,True
+669,Heart Disease,83.9,High Risk,1,1,True
+670,Heart Disease,84.6,High Risk,1,1,True
+671,Heart Disease,85.9,High Risk,1,1,True
+672,Heart Disease,86.6,High Risk,1,1,True
+673,Heart Disease,91.5,High Risk,1,1,True
+674,Heart Disease,91.2,High Risk,1,1,True
+675,Heart Disease,84.6,High Risk,1,1,True
+676,Heart Disease,87.7,High Risk,1,1,True
+677,Heart Disease,88.3,High Risk,1,1,True
+678,Heart Disease,90.5,High Risk,1,1,True
+679,Heart Disease,86.5,High Risk,1,1,True
+680,Heart Disease,76.6,High Risk,1,1,True
+681,Heart Disease,84.6,High Risk,1,1,True
+682,Heart Disease,88.6,High Risk,1,1,True
+683,Heart Disease,89.2,High Risk,1,1,True
+684,Heart Disease,91.2,High Risk,1,1,True
+685,Heart Disease,90.8,High Risk,1,1,True
+686,Heart Disease,92.9,High Risk,1,1,True
+687,Heart Disease,87.7,High Risk,1,1,True
+688,Heart Disease,90.7,High Risk,1,1,True
+689,Heart Disease,84.6,High Risk,1,1,True
+690,Heart Disease,69.7,High Risk,1,1,True
+691,Heart Disease,84.6,High Risk,1,1,True
+692,Heart Disease,79.2,High Risk,1,1,True
+693,Heart Disease,89.7,High Risk,1,1,True
+694,Heart Disease,88.5,High Risk,1,1,True
+695,Heart Disease,89.7,High Risk,1,1,True
+696,Heart Disease,90.7,High Risk,1,1,True
+697,Heart Disease,84.6,High Risk,1,1,True
+698,Heart Disease,92.4,High Risk,1,1,True
+699,Heart Disease,91.3,High Risk,1,1,True
+700,Heart Disease,88.8,High Risk,1,1,True
+701,Heart Disease,86.2,High Risk,1,1,True
+702,Heart Disease,88.6,High Risk,1,1,True
+703,Heart Disease,79.7,High Risk,1,1,True
+704,Heart Disease,89.4,High Risk,1,1,True
+705,Heart Disease,88.0,High Risk,1,1,True
+706,Heart Disease,89.1,High Risk,1,1,True
+707,Heart Disease,77.8,High Risk,1,0,False
+708,Heart Disease,87.8,High Risk,1,1,True
+709,Heart Disease,84.6,High Risk,1,1,True
+710,Heart Disease,89.4,High Risk,1,1,True
+711,Heart Disease,84.6,High Risk,1,1,True
+712,Heart Disease,86.5,High Risk,1,1,True
+713,Heart Disease,84.6,High Risk,1,1,True
+714,Heart Disease,81.3,High Risk,1,1,True
+715,Heart Disease,79.2,High Risk,1,1,True
+716,Heart Disease,87.0,High Risk,1,1,True
+717,Heart Disease,86.4,High Risk,1,1,True
+718,Heart Disease,86.8,High Risk,1,0,False
+719,Heart Disease,80.8,High Risk,1,1,True
+720,Heart Disease,79.5,High Risk,1,1,True
+721,Heart Disease,89.9,High Risk,1,1,True
+722,Heart Disease,15.3,Low Risk,0,0,True
+723,Heart Disease,92.8,High Risk,1,1,True
+724,Heart Disease,91.9,High Risk,1,1,True
+725,Heart Disease,60.2,High Risk,1,0,False
+726,Heart Disease,53.8,Medium Risk,1,0,False
+727,Heart Disease,84.6,High Risk,1,1,True
+728,Heart Disease,82.7,High Risk,1,0,False
+729,Heart Disease,84.6,High Risk,1,1,True
+730,Heart Disease,77.3,High Risk,1,1,True
+731,Heart Disease,13.6,Low Risk,0,0,True
+732,Heart Disease,87.1,High Risk,1,1,True
+733,Heart Disease,90.1,High Risk,1,1,True
+734,Heart Disease,84.6,High Risk,1,1,True
+735,Heart Disease,91.1,High Risk,1,1,True
+736,Heart Disease,53.8,Medium Risk,1,0,False
+737,Heart Disease,88.9,High Risk,1,1,True
+738,Heart Disease,84.6,High Risk,1,1,True
+739,Heart Disease,85.0,High Risk,1,0,False
+740,Heart Disease,84.4,High Risk,1,0,False
+741,Heart Disease,88.5,High Risk,1,1,True
+742,Heart Disease,91.8,High Risk,1,1,True
+743,Heart Disease,86.7,High Risk,1,1,True
+744,Heart Disease,66.7,High Risk,1,0,False
+745,Heart Disease,84.6,High Risk,1,1,True
+746,Heart Disease,89.5,High Risk,1,1,True
+747,Heart Disease,84.6,High Risk,1,1,True
+748,Heart Disease,84.6,High Risk,1,1,True
+749,Heart Disease,84.6,High Risk,1,1,True
+750,Heart Disease,37.8,Medium Risk,0,1,False
+751,Heart Disease,81.8,High Risk,1,1,True
+752,Heart Disease,84.6,High Risk,1,1,True
+753,Heart Disease,84.9,High Risk,1,1,True
+754,Heart Disease,72.6,High Risk,1,1,True
+755,Heart Disease,90.0,High Risk,1,1,True
+756,Heart Disease,85.8,High Risk,1,1,True
+757,Heart Disease,57.7,Medium Risk,1,1,True
+758,Heart Disease,90.7,High Risk,1,0,False
+759,Heart Disease,82.2,High Risk,1,1,True
+760,Heart Disease,85.9,High Risk,1,0,False
+761,Heart Disease,87.9,High Risk,1,1,True
+762,Heart Disease,83.7,High Risk,1,1,True
+763,Heart Disease,92.6,High Risk,1,1,True
+764,Heart Disease,77.8,High Risk,1,0,False
+765,Heart Disease,86.7,High Risk,1,1,True
+766,Heart Disease,90.6,High Risk,1,1,True
+767,Heart Disease,89.2,High Risk,1,1,True
+768,Heart Disease,86.3,High Risk,1,0,False
+769,Heart Disease,85.8,High Risk,1,1,True
+770,Heart Disease,5.6,Low Risk,0,0,True
+771,Heart Disease,86.2,High Risk,1,1,True
+772,Heart Disease,70.9,High Risk,1,0,False
+773,Heart Disease,84.6,High Risk,1,1,True
+774,Heart Disease,74.0,High Risk,1,0,False
+775,Heart Disease,86.7,High Risk,1,1,True
+776,Heart Disease,89.0,High Risk,1,1,True
+777,Heart Disease,87.3,High Risk,1,1,True
+778,Heart Disease,84.1,High Risk,1,1,True
+779,Heart Disease,72.2,High Risk,1,0,False
+780,Heart Disease,86.6,High Risk,1,1,True
+781,Heart Disease,59.8,Medium Risk,1,0,False
+782,Heart Disease,89.1,High Risk,1,1,True
+783,Heart Disease,93.6,High Risk,1,1,True
+784,Heart Disease,87.6,High Risk,1,1,True
+785,Heart Disease,88.0,High Risk,1,1,True
+786,Heart Disease,84.6,High Risk,1,1,True
+787,Heart Disease,84.6,High Risk,1,1,True
+788,Heart Disease,92.0,High Risk,1,1,True
+789,Heart Disease,81.0,High Risk,1,1,True
+790,Heart Disease,85.7,High Risk,1,1,True
+791,Heart Disease,44.0,Medium Risk,0,0,True
+792,Heart Disease,91.7,High Risk,1,1,True
+793,Heart Disease,52.3,Medium Risk,1,0,False
+794,Heart Disease,94.6,High Risk,1,1,True
+795,Heart Disease,84.6,High Risk,1,1,True
+796,Heart Disease,89.4,High Risk,1,1,True
+797,Heart Disease,84.6,High Risk,1,1,True
+798,Heart Disease,21.3,Low Risk,0,1,False
+799,Heart Disease,92.3,High Risk,1,1,True
+800,Heart Disease,84.6,High Risk,1,1,True
+801,Heart Disease,77.1,High Risk,1,0,False
+802,Heart Disease,94.6,High Risk,1,1,True
+803,Heart Disease,88.3,High Risk,1,1,True
+804,Heart Disease,94.3,High Risk,1,1,True
+805,Heart Disease,93.6,High Risk,1,1,True
+806,Heart Disease,95.8,High Risk,1,1,True
+807,Heart Disease,93.0,High Risk,1,1,True
+808,Heart Disease,63.3,High Risk,1,0,False
+809,Heart Disease,85.4,High Risk,1,1,True
+810,Heart Disease,78.1,High Risk,1,1,True
+811,Heart Disease,89.7,High Risk,1,1,True
+812,Heart Disease,58.0,Medium Risk,1,0,False
+813,Heart Disease,88.3,High Risk,1,1,True
+814,Heart Disease,43.4,Medium Risk,0,1,False
+815,Heart Disease,25.3,Low Risk,0,0,True
+816,Heart Disease,84.2,High Risk,1,1,True
+817,Heart Disease,16.1,Low Risk,0,0,True
+818,Heart Disease,78.3,High Risk,1,1,True
+819,Heart Disease,88.1,High Risk,1,1,True
+820,Heart Disease,82.6,High Risk,1,0,False
+821,Heart Disease,38.0,Medium Risk,0,1,False
+822,Heart Disease,93.1,High Risk,1,1,True
+823,Heart Disease,84.6,High Risk,1,1,True
+824,Heart Disease,84.6,High Risk,1,1,True
+825,Heart Disease,67.9,High Risk,1,0,False
+826,Heart Disease,92.2,High Risk,1,1,True
+827,Heart Disease,91.1,High Risk,1,1,True
+828,Heart Disease,88.5,High Risk,1,1,True
+829,Heart Disease,16.2,Low Risk,0,0,True
+830,Heart Disease,9.9,Low Risk,0,0,True
+831,Heart Disease,84.6,High Risk,1,1,True
+832,Heart Disease,40.4,Medium Risk,0,0,True
+833,Heart Disease,13.2,Low Risk,0,1,False
+834,Heart Disease,84.6,High Risk,1,1,True
+835,Heart Disease,27.0,Low Risk,0,1,False
+836,Heart Disease,91.0,High Risk,1,1,True
+837,Heart Disease,68.2,High Risk,1,1,True
+838,Heart Disease,88.0,High Risk,1,1,True
+839,Heart Disease,93.9,High Risk,1,1,True
+840,Heart Disease,91.9,High Risk,1,1,True
+841,Heart Disease,65.8,High Risk,1,1,True
+842,Heart Disease,88.4,High Risk,1,1,True
+843,Heart Disease,88.9,High Risk,1,1,True
+844,Heart Disease,65.6,High Risk,1,0,False
+845,Heart Disease,52.3,Medium Risk,1,1,True
+846,Heart Disease,86.7,High Risk,1,1,True
+847,Heart Disease,86.4,High Risk,1,1,True
+848,Heart Disease,84.6,High Risk,1,1,True
+849,Heart Disease,58.5,Medium Risk,1,0,False
+850,Heart Disease,22.1,Low Risk,0,0,True
+851,Heart Disease,37.8,Medium Risk,0,1,False
+852,Heart Disease,81.6,High Risk,1,1,True
+853,Heart Disease,84.6,High Risk,1,1,True
+854,Heart Disease,43.9,Medium Risk,0,0,True
+855,Heart Disease,80.8,High Risk,1,1,True
+856,Heart Disease,54.5,Medium Risk,1,0,False
+857,Heart Disease,59.4,Medium Risk,1,1,True
+858,Heart Disease,75.6,High Risk,1,1,True
+859,Heart Disease,19.5,Low Risk,0,0,True
+860,Heart Disease,84.6,High Risk,1,1,True
+861,Heart Disease,78.4,High Risk,1,0,False
+862,Heart Disease,78.3,High Risk,1,1,True
+863,Heart Disease,43.6,Medium Risk,0,1,False
+864,Heart Disease,90.9,High Risk,1,1,True
+865,Heart Disease,27.7,Low Risk,0,0,True
+866,Heart Disease,11.4,Low Risk,0,0,True
+867,Heart Disease,93.1,High Risk,1,0,False
+868,Heart Disease,84.6,High Risk,1,1,True
+869,Heart Disease,91.6,High Risk,1,1,True
+870,Heart Disease,60.6,High Risk,1,1,True
+871,Heart Disease,68.1,High Risk,1,0,False
+872,Heart Disease,84.6,High Risk,1,1,True
+873,Heart Disease,88.0,High Risk,1,1,True
+874,Heart Disease,91.0,High Risk,1,1,True
+875,Heart Disease,87.2,High Risk,1,1,True
+876,Heart Disease,92.7,High Risk,1,1,True
+877,Heart Disease,66.4,High Risk,1,1,True
+878,Heart Disease,88.4,High Risk,1,1,True
+879,Heart Disease,94.8,High Risk,1,1,True
+880,Heart Disease,81.0,High Risk,1,1,True
+881,Heart Disease,85.4,High Risk,1,1,True
+882,Heart Disease,80.6,High Risk,1,1,True
+883,Heart Disease,91.0,High Risk,1,1,True
+884,Heart Disease,94.7,High Risk,1,1,True
+885,Heart Disease,59.9,Medium Risk,1,1,True
+886,Heart Disease,82.9,High Risk,1,1,True
+887,Heart Disease,84.6,High Risk,1,1,True
+888,Heart Disease,48.4,Medium Risk,0,0,True
+889,Heart Disease,90.6,High Risk,1,1,True
+890,Heart Disease,84.6,High Risk,1,1,True
+891,Heart Disease,92.8,High Risk,1,1,True
+892,Heart Disease,16.2,Low Risk,0,0,True
+893,Heart Disease,93.4,High Risk,1,1,True
+894,Heart Disease,84.6,High Risk,1,1,True
+895,Heart Disease,16.2,Low Risk,0,0,True
+896,Heart Disease,40.9,Medium Risk,0,0,True
+897,Heart Disease,86.7,High Risk,1,1,True
+898,Heart Disease,77.7,High Risk,1,1,True
+899,Heart Disease,85.7,High Risk,1,1,True
+900,Heart Disease,84.6,High Risk,1,1,True
+901,Heart Disease,79.1,High Risk,1,1,True
+902,Heart Disease,37.8,Medium Risk,0,0,True
+903,Heart Disease,92.1,High Risk,1,1,True
+904,Heart Disease,90.7,High Risk,1,1,True
+905,Heart Disease,85.7,High Risk,1,0,False
+906,Heart Disease,35.8,Medium Risk,0,1,False
+907,Heart Disease,79.2,High Risk,1,1,True
+908,Heart Disease,84.6,High Risk,1,1,True
+909,Heart Disease,89.0,High Risk,1,1,True
+910,Heart Disease,65.6,High Risk,1,0,False
+911,Heart Disease,53.8,Medium Risk,1,0,False
+912,Heart Disease,84.6,High Risk,1,1,True
+913,Heart Disease,88.9,High Risk,1,1,True
+914,Heart Disease,64.1,High Risk,1,1,True
+915,Heart Disease,22.2,Low Risk,0,1,False
+916,Heart Disease,42.6,Medium Risk,0,1,False
+917,Heart Disease,23.2,Low Risk,0,0,True
+918,Heart Disease,78.9,High Risk,1,1,True
+919,Heart Disease,80.6,High Risk,1,0,False
+920,Heart Disease,84.6,High Risk,1,1,True
+1,Diabetes,75.8,High Risk,1,1,True
+2,Diabetes,3.3,Low Risk,0,0,True
+3,Diabetes,94.4,High Risk,1,1,True
+4,Diabetes,2.0,Low Risk,0,0,True
+5,Diabetes,94.0,High Risk,1,1,True
+6,Diabetes,5.7,Low Risk,0,0,True
+7,Diabetes,1.5,Low Risk,0,1,False
+8,Diabetes,23.2,Low Risk,0,0,True
+9,Diabetes,91.7,High Risk,1,1,True
+10,Diabetes,68.3,High Risk,1,1,True
+11,Diabetes,19.2,Low Risk,0,0,True
+12,Diabetes,90.9,High Risk,1,1,True
+13,Diabetes,5.9,Low Risk,0,0,True
+14,Diabetes,85.4,High Risk,1,1,True
+15,Diabetes,90.5,High Risk,1,1,True
+16,Diabetes,48.1,Medium Risk,0,1,False
+17,Diabetes,80.8,High Risk,1,1,True
+18,Diabetes,56.7,Medium Risk,1,1,True
+19,Diabetes,14.2,Low Risk,0,0,True
+20,Diabetes,60.8,High Risk,1,1,True
+21,Diabetes,22.8,Low Risk,0,0,True
+22,Diabetes,39.1,Medium Risk,0,0,True
+23,Diabetes,94.6,High Risk,1,1,True
+24,Diabetes,68.0,High Risk,1,1,True
+25,Diabetes,76.0,High Risk,1,1,True
+26,Diabetes,54.5,Medium Risk,1,1,True
+27,Diabetes,74.3,High Risk,1,1,True
+28,Diabetes,1.8,Low Risk,0,0,True
+29,Diabetes,14.6,Low Risk,0,0,True
+30,Diabetes,30.7,Medium Risk,0,0,True
+31,Diabetes,43.8,Medium Risk,0,0,True
+32,Diabetes,79.0,High Risk,1,1,True
+33,Diabetes,0.9,Low Risk,0,0,True
+34,Diabetes,1.3,Low Risk,0,0,True
+35,Diabetes,44.6,Medium Risk,0,0,True
+36,Diabetes,10.9,Low Risk,0,0,True
+37,Diabetes,69.3,High Risk,1,0,False
+38,Diabetes,81.1,High Risk,1,1,True
+39,Diabetes,3.6,Low Risk,0,1,False
+40,Diabetes,85.9,High Risk,1,1,True
+41,Diabetes,22.1,Low Risk,0,0,True
+42,Diabetes,52.5,Medium Risk,1,0,False
+43,Diabetes,6.7,Low Risk,0,0,True
+44,Diabetes,97.5,High Risk,1,1,True
+45,Diabetes,91.1,High Risk,1,0,False
+46,Diabetes,96.9,High Risk,1,1,True
+47,Diabetes,30.4,Medium Risk,0,0,True
+48,Diabetes,2.4,Low Risk,0,0,True
+49,Diabetes,45.0,Medium Risk,0,1,False
+50,Diabetes,17.6,Low Risk,0,0,True
+51,Diabetes,2.0,Low Risk,0,0,True
+52,Diabetes,6.5,Low Risk,0,0,True
+53,Diabetes,1.8,Low Risk,0,0,True
+54,Diabetes,94.4,High Risk,1,1,True
+55,Diabetes,60.0,High Risk,1,0,False
+56,Diabetes,0.7,Low Risk,0,0,True
+57,Diabetes,91.2,High Risk,1,1,True
+58,Diabetes,14.8,Low Risk,0,0,True
+59,Diabetes,24.0,Low Risk,0,0,True
+60,Diabetes,10.7,Low Risk,0,0,True
+61,Diabetes,3.1,Low Risk,0,0,True
+62,Diabetes,62.8,High Risk,1,1,True
+63,Diabetes,2.4,Low Risk,0,0,True
+64,Diabetes,8.8,Low Risk,0,0,True
+65,Diabetes,56.4,Medium Risk,1,1,True
+66,Diabetes,17.4,Low Risk,0,0,True
+67,Diabetes,50.2,Medium Risk,1,1,True
+68,Diabetes,48.3,Medium Risk,0,0,True
+69,Diabetes,5.9,Low Risk,0,0,True
+70,Diabetes,18.1,Low Risk,0,0,True
+71,Diabetes,26.8,Low Risk,0,1,False
+72,Diabetes,23.2,Low Risk,0,0,True
+73,Diabetes,76.8,High Risk,1,1,True
+74,Diabetes,9.3,Low Risk,0,0,True
+75,Diabetes,2.9,Low Risk,0,0,True
+76,Diabetes,1.9,Low Risk,0,0,True
+77,Diabetes,10.6,Low Risk,0,0,True
+78,Diabetes,9.7,Low Risk,0,0,True
+79,Diabetes,51.0,Medium Risk,1,1,True
+80,Diabetes,3.3,Low Risk,0,0,True
+81,Diabetes,1.9,Low Risk,0,0,True
+82,Diabetes,1.3,Low Risk,0,0,True
+83,Diabetes,11.1,Low Risk,0,0,True
+84,Diabetes,2.3,Low Risk,0,0,True
+85,Diabetes,87.0,High Risk,1,1,True
+86,Diabetes,27.8,Low Risk,0,0,True
+87,Diabetes,10.6,Low Risk,0,0,True
+88,Diabetes,9.5,Low Risk,0,0,True
+89,Diabetes,34.9,Medium Risk,0,1,False
+90,Diabetes,3.2,Low Risk,0,0,True
+91,Diabetes,1.1,Low Risk,0,0,True
+92,Diabetes,26.5,Low Risk,0,0,True
+93,Diabetes,8.9,Low Risk,0,0,True
+94,Diabetes,31.9,Medium Risk,0,1,False
+95,Diabetes,9.6,Low Risk,0,0,True
+96,Diabetes,43.8,Medium Risk,0,0,True
+97,Diabetes,1.8,Low Risk,0,0,True
+98,Diabetes,0.8,Low Risk,0,0,True
+99,Diabetes,1.4,Low Risk,0,0,True
+100,Diabetes,92.3,High Risk,1,1,True
+101,Diabetes,96.9,High Risk,1,1,True
+102,Diabetes,5.6,Low Risk,0,0,True
+103,Diabetes,4.0,Low Risk,0,0,True
+104,Diabetes,2.2,Low Risk,0,0,True
+105,Diabetes,8.6,Low Risk,0,0,True
+106,Diabetes,8.0,Low Risk,0,0,True
+107,Diabetes,1.8,Low Risk,0,0,True
+108,Diabetes,19.0,Low Risk,0,0,True
+109,Diabetes,1.8,Low Risk,0,0,True
+110,Diabetes,38.7,Medium Risk,0,1,False
+111,Diabetes,88.2,High Risk,1,1,True
+112,Diabetes,93.8,High Risk,1,1,True
+113,Diabetes,2.6,Low Risk,0,0,True
+114,Diabetes,3.4,Low Risk,0,0,True
+115,Diabetes,96.4,High Risk,1,1,True
+116,Diabetes,54.0,Medium Risk,1,1,True
+117,Diabetes,28.2,Low Risk,0,1,False
+118,Diabetes,3.4,Low Risk,0,0,True
+119,Diabetes,3.3,Low Risk,0,0,True
+120,Diabetes,1.6,Low Risk,0,0,True
+121,Diabetes,96.3,High Risk,1,1,True
+122,Diabetes,18.4,Low Risk,0,0,True
+123,Diabetes,12.8,Low Risk,0,0,True
+124,Diabetes,3.6,Low Risk,0,0,True
+125,Diabetes,18.9,Low Risk,0,1,False
+126,Diabetes,79.4,High Risk,1,1,True
+127,Diabetes,38.5,Medium Risk,0,0,True
+128,Diabetes,9.4,Low Risk,0,0,True
+129,Diabetes,55.5,Medium Risk,1,1,True
+130,Diabetes,58.6,Medium Risk,1,1,True
+131,Diabetes,87.6,High Risk,1,1,True
+132,Diabetes,72.7,High Risk,1,1,True
+133,Diabetes,92.9,High Risk,1,1,True
+134,Diabetes,9.8,Low Risk,0,0,True
+135,Diabetes,2.7,Low Risk,0,0,True
+136,Diabetes,13.2,Low Risk,0,0,True
+137,Diabetes,8.1,Low Risk,0,0,True
+138,Diabetes,2.6,Low Risk,0,0,True
+139,Diabetes,52.0,Medium Risk,1,0,False
+140,Diabetes,6.0,Low Risk,0,0,True
+141,Diabetes,13.6,Low Risk,0,0,True
+142,Diabetes,22.2,Low Risk,0,0,True
+143,Diabetes,5.4,Low Risk,0,0,True
+144,Diabetes,63.9,High Risk,1,1,True
+145,Diabetes,17.7,Low Risk,0,0,True
+146,Diabetes,10.9,Low Risk,0,0,True
+147,Diabetes,5.3,Low Risk,0,0,True
+148,Diabetes,17.2,Low Risk,0,0,True
+149,Diabetes,23.5,Low Risk,0,0,True
+150,Diabetes,0.9,Low Risk,0,0,True
+151,Diabetes,21.6,Low Risk,0,0,True
+152,Diabetes,7.6,Low Risk,0,0,True
+153,Diabetes,97.2,High Risk,1,1,True
+154,Diabetes,22.3,Low Risk,0,0,True
+155,Diabetes,96.0,High Risk,1,1,True
+156,Diabetes,93.7,High Risk,1,1,True
+157,Diabetes,1.8,Low Risk,0,0,True
+158,Diabetes,2.8,Low Risk,0,0,True
+159,Diabetes,1.9,Low Risk,0,0,True
+160,Diabetes,93.7,High Risk,1,1,True
+161,Diabetes,35.6,Medium Risk,0,0,True
+162,Diabetes,15.0,Low Risk,0,0,True
+163,Diabetes,9.9,Low Risk,0,0,True
+164,Diabetes,9.4,Low Risk,0,0,True
+165,Diabetes,56.2,Medium Risk,1,1,True
+166,Diabetes,69.2,High Risk,1,1,True
+167,Diabetes,34.2,Medium Risk,0,0,True
+168,Diabetes,49.1,Medium Risk,0,0,True
+169,Diabetes,28.4,Low Risk,0,0,True
+170,Diabetes,12.8,Low Risk,0,0,True
+171,Diabetes,29.1,Low Risk,0,1,False
+172,Diabetes,67.9,High Risk,1,1,True
+173,Diabetes,9.8,Low Risk,0,0,True
+174,Diabetes,4.2,Low Risk,0,0,True
+175,Diabetes,3.9,Low Risk,0,0,True
+176,Diabetes,95.5,High Risk,1,1,True
+177,Diabetes,11.4,Low Risk,0,0,True
+178,Diabetes,89.6,High Risk,1,1,True
+179,Diabetes,34.4,Medium Risk,0,0,True
+180,Diabetes,58.5,Medium Risk,1,1,True
+181,Diabetes,1.2,Low Risk,0,0,True
+182,Diabetes,22.1,Low Risk,0,0,True
+183,Diabetes,9.6,Low Risk,0,0,True
+184,Diabetes,1.3,Low Risk,0,0,True
+185,Diabetes,32.7,Medium Risk,0,0,True
+186,Diabetes,95.0,High Risk,1,1,True
+187,Diabetes,93.7,High Risk,1,1,True
+188,Diabetes,76.6,High Risk,1,1,True
+189,Diabetes,79.6,High Risk,1,1,True
+190,Diabetes,66.8,High Risk,1,1,True
+191,Diabetes,4.4,Low Risk,0,0,True
+192,Diabetes,27.8,Low Risk,0,0,True
+193,Diabetes,91.9,High Risk,1,1,True
+194,Diabetes,96.1,High Risk,1,1,True
+195,Diabetes,2.2,Low Risk,0,0,True
+196,Diabetes,72.5,High Risk,1,1,True
+197,Diabetes,2.0,Low Risk,0,0,True
+198,Diabetes,17.8,Low Risk,0,1,False
+199,Diabetes,27.1,Low Risk,0,1,False
+200,Diabetes,41.7,Medium Risk,0,1,False
+201,Diabetes,14.7,Low Risk,0,0,True
+202,Diabetes,33.0,Medium Risk,0,0,True
+203,Diabetes,21.8,Low Risk,0,0,True
+204,Diabetes,5.3,Low Risk,0,0,True
+205,Diabetes,34.4,Medium Risk,0,0,True
+206,Diabetes,4.8,Low Risk,0,0,True
+207,Diabetes,93.2,High Risk,1,1,True
+208,Diabetes,82.2,High Risk,1,1,True
+209,Diabetes,4.2,Low Risk,0,0,True
+210,Diabetes,95.8,High Risk,1,1,True
+211,Diabetes,1.7,Low Risk,0,0,True
+212,Diabetes,29.0,Low Risk,0,0,True
+213,Diabetes,72.8,High Risk,1,0,False
+214,Diabetes,65.7,High Risk,1,1,True
+215,Diabetes,58.5,Medium Risk,1,1,True
+216,Diabetes,60.2,High Risk,1,1,True
+217,Diabetes,41.5,Medium Risk,0,1,False
+218,Diabetes,29.6,Low Risk,0,0,True
+219,Diabetes,76.0,High Risk,1,1,True
+220,Diabetes,43.7,Medium Risk,0,1,False
+221,Diabetes,95.9,High Risk,1,1,True
+222,Diabetes,81.1,High Risk,1,1,True
+223,Diabetes,6.7,Low Risk,0,0,True
+224,Diabetes,16.8,Low Risk,0,0,True
+225,Diabetes,3.5,Low Risk,0,0,True
+226,Diabetes,1.2,Low Risk,0,0,True
+227,Diabetes,10.3,Low Risk,0,0,True
+228,Diabetes,94.8,High Risk,1,1,True
+229,Diabetes,17.5,Low Risk,0,0,True
+230,Diabetes,3.9,Low Risk,0,0,True
+231,Diabetes,66.8,High Risk,1,1,True
+232,Diabetes,90.0,High Risk,1,1,True
+233,Diabetes,2.0,Low Risk,0,0,True
+234,Diabetes,24.8,Low Risk,0,0,True
+235,Diabetes,1.9,Low Risk,0,0,True
+236,Diabetes,95.3,High Risk,1,1,True
+237,Diabetes,95.0,High Risk,1,1,True
+238,Diabetes,93.2,High Risk,1,1,True
+239,Diabetes,96.5,High Risk,1,1,True
+240,Diabetes,5.0,Low Risk,0,0,True
+241,Diabetes,2.6,Low Risk,0,0,True
+242,Diabetes,2.5,Low Risk,0,0,True
+243,Diabetes,13.0,Low Risk,0,1,False
+244,Diabetes,13.9,Low Risk,0,1,False
+245,Diabetes,64.0,High Risk,1,0,False
+246,Diabetes,95.8,High Risk,1,1,True
+247,Diabetes,54.7,Medium Risk,1,0,False
+248,Diabetes,71.8,High Risk,1,0,False
+249,Diabetes,26.2,Low Risk,0,0,True
+250,Diabetes,11.6,Low Risk,0,0,True
+251,Diabetes,32.3,Medium Risk,0,0,True
+252,Diabetes,15.9,Low Risk,0,0,True
+253,Diabetes,1.1,Low Risk,0,0,True
+254,Diabetes,3.3,Low Risk,0,0,True
+255,Diabetes,92.7,High Risk,1,1,True
+256,Diabetes,37.8,Medium Risk,0,1,False
+257,Diabetes,31.1,Medium Risk,0,0,True
+258,Diabetes,3.6,Low Risk,0,0,True
+259,Diabetes,57.6,Medium Risk,1,0,False
+260,Diabetes,97.6,High Risk,1,1,True
+261,Diabetes,84.3,High Risk,1,0,False
+262,Diabetes,59.8,Medium Risk,1,1,True
+263,Diabetes,11.4,Low Risk,0,0,True
+264,Diabetes,20.0,Low Risk,0,0,True
+265,Diabetes,35.7,Medium Risk,0,1,False
+266,Diabetes,20.8,Low Risk,0,0,True
+267,Diabetes,69.3,High Risk,1,1,True
+268,Diabetes,45.5,Medium Risk,0,0,True
+269,Diabetes,1.1,Low Risk,0,0,True
+270,Diabetes,50.9,Medium Risk,1,1,True
+271,Diabetes,87.4,High Risk,1,1,True
+272,Diabetes,4.3,Low Risk,0,0,True
+273,Diabetes,7.7,Low Risk,0,0,True
+274,Diabetes,1.0,Low Risk,0,0,True
+275,Diabetes,45.5,Medium Risk,0,0,True
+276,Diabetes,10.3,Low Risk,0,0,True
+277,Diabetes,3.7,Low Risk,0,1,False
+278,Diabetes,6.8,Low Risk,0,0,True
+279,Diabetes,9.1,Low Risk,0,0,True
+280,Diabetes,2.4,Low Risk,0,0,True
+281,Diabetes,66.5,High Risk,1,1,True
+282,Diabetes,35.3,Medium Risk,0,0,True
+283,Diabetes,42.5,Medium Risk,0,0,True
+284,Diabetes,90.0,High Risk,1,1,True
+285,Diabetes,34.2,Medium Risk,0,1,False
+286,Diabetes,25.7,Low Risk,0,0,True
+287,Diabetes,31.7,Medium Risk,0,0,True
+288,Diabetes,77.4,High Risk,1,1,True
+289,Diabetes,1.8,Low Risk,0,0,True
+290,Diabetes,18.6,Low Risk,0,0,True
+291,Diabetes,2.8,Low Risk,0,0,True
+292,Diabetes,45.8,Medium Risk,0,1,False
+293,Diabetes,90.6,High Risk,1,1,True
+294,Diabetes,79.2,High Risk,1,1,True
+295,Diabetes,10.0,Low Risk,0,0,True
+296,Diabetes,50.3,Medium Risk,1,0,False
+297,Diabetes,50.3,Medium Risk,1,1,True
+298,Diabetes,14.3,Low Risk,0,0,True
+299,Diabetes,45.5,Medium Risk,0,1,False
+300,Diabetes,12.1,Low Risk,0,0,True
+301,Diabetes,94.4,High Risk,1,1,True
+302,Diabetes,78.2,High Risk,1,1,True
+303,Diabetes,3.3,Low Risk,0,0,True
+304,Diabetes,87.2,High Risk,1,1,True
+305,Diabetes,20.6,Low Risk,0,0,True
+306,Diabetes,14.2,Low Risk,0,0,True
+307,Diabetes,90.3,High Risk,1,1,True
+308,Diabetes,6.6,Low Risk,0,0,True
+309,Diabetes,78.3,High Risk,1,1,True
+310,Diabetes,27.3,Low Risk,0,1,False
+311,Diabetes,3.1,Low Risk,0,0,True
+312,Diabetes,16.2,Low Risk,0,0,True
+313,Diabetes,68.3,High Risk,1,1,True
+314,Diabetes,9.2,Low Risk,0,0,True
+315,Diabetes,78.7,High Risk,1,1,True
+316,Diabetes,10.4,Low Risk,0,0,True
+317,Diabetes,2.3,Low Risk,0,0,True
+318,Diabetes,93.3,High Risk,1,1,True
+319,Diabetes,16.6,Low Risk,0,0,True
+320,Diabetes,91.0,High Risk,1,1,True
+321,Diabetes,14.7,Low Risk,0,0,True
+322,Diabetes,16.2,Low Risk,0,1,False
+323,Diabetes,45.0,Medium Risk,0,1,False
+324,Diabetes,78.8,High Risk,1,1,True
+325,Diabetes,10.9,Low Risk,0,0,True
+326,Diabetes,16.7,Low Risk,0,0,True
+327,Diabetes,53.0,Medium Risk,1,1,True
+328,Diabetes,71.0,High Risk,1,0,False
+329,Diabetes,77.8,High Risk,1,1,True
+330,Diabetes,7.7,Low Risk,0,0,True
+331,Diabetes,3.8,Low Risk,0,0,True
+332,Diabetes,1.6,Low Risk,0,0,True
+333,Diabetes,94.3,High Risk,1,1,True
+334,Diabetes,6.1,Low Risk,0,0,True
+335,Diabetes,1.6,Low Risk,0,0,True
+336,Diabetes,90.5,High Risk,1,0,False
+337,Diabetes,61.9,High Risk,1,0,False
+338,Diabetes,59.9,Medium Risk,1,1,True
+339,Diabetes,87.7,High Risk,1,1,True
+340,Diabetes,94.9,High Risk,1,1,True
+341,Diabetes,4.9,Low Risk,0,0,True
+342,Diabetes,5.4,Low Risk,0,0,True
+343,Diabetes,17.7,Low Risk,0,0,True
+344,Diabetes,24.1,Low Risk,0,0,True
+345,Diabetes,23.4,Low Risk,0,0,True
+346,Diabetes,50.3,Medium Risk,1,0,False
+347,Diabetes,9.4,Low Risk,0,0,True
+348,Diabetes,4.2,Low Risk,0,0,True
+349,Diabetes,4.5,Low Risk,0,0,True
+350,Diabetes,54.4,Medium Risk,1,1,True
+351,Diabetes,5.7,Low Risk,0,0,True
+352,Diabetes,41.4,Medium Risk,0,0,True
+353,Diabetes,14.0,Low Risk,0,0,True
+354,Diabetes,3.3,Low Risk,0,0,True
+355,Diabetes,6.1,Low Risk,0,0,True
+356,Diabetes,86.7,High Risk,1,1,True
+357,Diabetes,45.2,Medium Risk,0,1,False
+358,Diabetes,81.9,High Risk,1,1,True
+359,Diabetes,10.2,Low Risk,0,0,True
+360,Diabetes,91.9,High Risk,1,1,True
+361,Diabetes,92.0,High Risk,1,1,True
+362,Diabetes,25.7,Low Risk,0,0,True
+363,Diabetes,8.2,Low Risk,0,0,True
+364,Diabetes,78.1,High Risk,1,1,True
+365,Diabetes,42.0,Medium Risk,0,0,True
+366,Diabetes,6.1,Low Risk,0,0,True
+367,Diabetes,19.2,Low Risk,0,1,False
+368,Diabetes,2.3,Low Risk,0,0,True
+369,Diabetes,1.6,Low Risk,0,0,True
+370,Diabetes,62.6,High Risk,1,1,True
+371,Diabetes,93.8,High Risk,1,1,True
+372,Diabetes,9.4,Low Risk,0,0,True
+373,Diabetes,2.9,Low Risk,0,0,True
+374,Diabetes,5.1,Low Risk,0,0,True
+375,Diabetes,27.5,Low Risk,0,0,True
+376,Diabetes,79.7,High Risk,1,1,True
+377,Diabetes,1.6,Low Risk,0,0,True
+378,Diabetes,2.3,Low Risk,0,0,True
+379,Diabetes,95.1,High Risk,1,1,True
+380,Diabetes,14.4,Low Risk,0,0,True
+381,Diabetes,22.5,Low Risk,0,0,True
+382,Diabetes,2.3,Low Risk,0,0,True
+383,Diabetes,2.7,Low Risk,0,0,True
+384,Diabetes,4.6,Low Risk,0,0,True
+385,Diabetes,3.7,Low Risk,0,0,True
+386,Diabetes,2.2,Low Risk,0,0,True
+387,Diabetes,48.5,Medium Risk,0,1,False
+388,Diabetes,47.1,Medium Risk,0,1,False
+389,Diabetes,63.3,High Risk,1,1,True
+390,Diabetes,25.1,Low Risk,0,0,True
+391,Diabetes,26.7,Low Risk,0,0,True
+392,Diabetes,97.2,High Risk,1,1,True
+393,Diabetes,3.2,Low Risk,0,0,True
+394,Diabetes,5.2,Low Risk,0,0,True
+395,Diabetes,86.4,High Risk,1,1,True
+396,Diabetes,3.9,Low Risk,0,0,True
+397,Diabetes,5.5,Low Risk,0,0,True
+398,Diabetes,46.8,Medium Risk,0,1,False
+399,Diabetes,2.0,Low Risk,0,0,True
+400,Diabetes,88.0,High Risk,1,1,True
+401,Diabetes,27.2,Low Risk,0,1,False
+402,Diabetes,11.4,Low Risk,0,0,True
+403,Diabetes,36.8,Medium Risk,0,1,False
+404,Diabetes,6.8,Low Risk,0,0,True
+405,Diabetes,89.5,High Risk,1,1,True
+406,Diabetes,19.0,Low Risk,0,0,True
+407,Diabetes,61.5,High Risk,1,1,True
+408,Diabetes,5.3,Low Risk,0,0,True
+409,Diabetes,93.9,High Risk,1,1,True
+410,Diabetes,89.3,High Risk,1,1,True
+411,Diabetes,37.4,Medium Risk,0,0,True
+412,Diabetes,24.5,Low Risk,0,0,True
+413,Diabetes,31.2,Medium Risk,0,0,True
+414,Diabetes,5.9,Low Risk,0,0,True
+415,Diabetes,83.3,High Risk,1,1,True
+416,Diabetes,80.5,High Risk,1,1,True
+417,Diabetes,6.2,Low Risk,0,0,True
+418,Diabetes,64.5,High Risk,1,1,True
+419,Diabetes,2.3,Low Risk,0,0,True
+420,Diabetes,6.4,Low Risk,0,1,False
+421,Diabetes,17.3,Low Risk,0,0,True
+422,Diabetes,2.1,Low Risk,0,0,True
+423,Diabetes,9.0,Low Risk,0,0,True
+424,Diabetes,14.6,Low Risk,0,0,True
+425,Diabetes,72.1,High Risk,1,1,True
+426,Diabetes,86.7,High Risk,1,1,True
+427,Diabetes,4.8,Low Risk,0,0,True
+428,Diabetes,94.5,High Risk,1,1,True
+429,Diabetes,40.3,Medium Risk,0,0,True
+430,Diabetes,57.5,Medium Risk,1,1,True
+431,Diabetes,1.5,Low Risk,0,0,True
+432,Diabetes,5.1,Low Risk,0,0,True
+433,Diabetes,2.0,Low Risk,0,0,True
+434,Diabetes,12.2,Low Risk,0,0,True
+435,Diabetes,3.3,Low Risk,0,0,True
+436,Diabetes,61.2,High Risk,1,1,True
+437,Diabetes,71.6,High Risk,1,0,False
+438,Diabetes,41.5,Medium Risk,0,0,True
+439,Diabetes,1.6,Low Risk,0,0,True
+440,Diabetes,43.1,Medium Risk,0,0,True
+441,Diabetes,82.6,High Risk,1,1,True
+442,Diabetes,2.0,Low Risk,0,0,True
+443,Diabetes,9.7,Low Risk,0,0,True
+444,Diabetes,79.8,High Risk,1,1,True
+445,Diabetes,35.0,Medium Risk,0,1,False
+446,Diabetes,63.6,High Risk,1,1,True
+447,Diabetes,4.5,Low Risk,0,0,True
+448,Diabetes,8.4,Low Risk,0,0,True
+449,Diabetes,32.9,Medium Risk,0,1,False
+450,Diabetes,8.8,Low Risk,0,0,True
+451,Diabetes,1.2,Low Risk,0,0,True
+452,Diabetes,42.3,Medium Risk,0,1,False
+453,Diabetes,3.8,Low Risk,0,0,True
+454,Diabetes,7.1,Low Risk,0,0,True
+455,Diabetes,6.1,Low Risk,0,0,True
+456,Diabetes,89.0,High Risk,1,1,True
+457,Diabetes,8.6,Low Risk,0,0,True
+458,Diabetes,1.9,Low Risk,0,0,True
+459,Diabetes,88.4,High Risk,1,1,True
+460,Diabetes,3.2,Low Risk,0,0,True
+461,Diabetes,9.1,Low Risk,0,0,True
+462,Diabetes,1.7,Low Risk,0,0,True
+463,Diabetes,8.3,Low Risk,0,0,True
+464,Diabetes,6.2,Low Risk,0,0,True
+465,Diabetes,6.4,Low Risk,0,0,True
+466,Diabetes,2.8,Low Risk,0,0,True
+467,Diabetes,1.3,Low Risk,0,0,True
+468,Diabetes,10.3,Low Risk,0,0,True
+469,Diabetes,56.4,Medium Risk,1,1,True
+470,Diabetes,84.1,High Risk,1,0,False
+471,Diabetes,58.8,Medium Risk,1,0,False
+472,Diabetes,51.1,Medium Risk,1,0,False
+473,Diabetes,15.4,Low Risk,0,0,True
+474,Diabetes,49.7,Medium Risk,0,0,True
+475,Diabetes,7.5,Low Risk,0,0,True
+476,Diabetes,20.6,Low Risk,0,0,True
+477,Diabetes,51.0,Medium Risk,1,1,True
+478,Diabetes,8.2,Low Risk,0,0,True
+479,Diabetes,6.0,Low Risk,0,0,True
+480,Diabetes,17.4,Low Risk,0,0,True
+481,Diabetes,77.9,High Risk,1,1,True
+482,Diabetes,25.3,Low Risk,0,0,True
+483,Diabetes,1.7,Low Risk,0,0,True
+484,Diabetes,5.5,Low Risk,0,0,True
+485,Diabetes,78.0,High Risk,1,1,True
+486,Diabetes,61.0,High Risk,1,1,True
+487,Diabetes,69.4,High Risk,1,0,False
+488,Diabetes,27.0,Low Risk,0,0,True
+489,Diabetes,3.0,Low Risk,0,0,True
+490,Diabetes,68.3,High Risk,1,0,False
+491,Diabetes,3.2,Low Risk,0,0,True
+492,Diabetes,10.5,Low Risk,0,0,True
+493,Diabetes,16.7,Low Risk,0,0,True
+494,Diabetes,69.3,High Risk,1,1,True
+495,Diabetes,3.2,Low Risk,0,0,True
+496,Diabetes,26.6,Low Risk,0,0,True
+497,Diabetes,5.7,Low Risk,0,0,True
+498,Diabetes,2.5,Low Risk,0,0,True
+499,Diabetes,90.3,High Risk,1,1,True
+500,Diabetes,25.3,Low Risk,0,0,True
+501,Diabetes,2.3,Low Risk,0,0,True
+502,Diabetes,3.7,Low Risk,0,0,True
+503,Diabetes,59.5,Medium Risk,1,1,True
+504,Diabetes,11.3,Low Risk,0,0,True
+505,Diabetes,19.8,Low Risk,0,0,True
+506,Diabetes,8.3,Low Risk,0,0,True
+507,Diabetes,89.7,High Risk,1,1,True
+508,Diabetes,6.7,Low Risk,0,0,True
+509,Diabetes,3.2,Low Risk,0,0,True
+510,Diabetes,2.6,Low Risk,0,0,True
+511,Diabetes,52.5,Medium Risk,1,1,True
+512,Diabetes,6.5,Low Risk,0,0,True
+513,Diabetes,2.3,Low Risk,0,0,True
+514,Diabetes,3.1,Low Risk,0,0,True
+515,Diabetes,1.4,Low Risk,0,0,True
+516,Diabetes,81.5,High Risk,1,1,True
+517,Diabetes,87.8,High Risk,1,1,True
+518,Diabetes,58.4,Medium Risk,1,0,False
+519,Diabetes,5.7,Low Risk,0,0,True
+520,Diabetes,9.1,Low Risk,0,0,True
+521,Diabetes,1.3,Low Risk,0,0,True
+522,Diabetes,15.1,Low Risk,0,0,True
+523,Diabetes,16.0,Low Risk,0,0,True
+524,Diabetes,80.5,High Risk,1,1,True
+525,Diabetes,11.1,Low Risk,0,0,True
+526,Diabetes,0.9,Low Risk,0,0,True
+527,Diabetes,2.1,Low Risk,0,0,True
+528,Diabetes,1.5,Low Risk,0,0,True
+529,Diabetes,16.9,Low Risk,0,0,True
+530,Diabetes,9.0,Low Risk,0,0,True
+531,Diabetes,8.4,Low Risk,0,0,True
+532,Diabetes,21.9,Low Risk,0,0,True
+533,Diabetes,5.7,Low Risk,0,0,True
+534,Diabetes,9.3,Low Risk,0,0,True
+535,Diabetes,7.4,Low Risk,0,0,True
+536,Diabetes,27.9,Low Risk,0,1,False
+537,Diabetes,28.1,Low Risk,0,0,True
+538,Diabetes,4.1,Low Risk,0,0,True
+539,Diabetes,20.9,Low Risk,0,0,True
+540,Diabetes,73.7,High Risk,1,1,True
+541,Diabetes,77.3,High Risk,1,1,True
+542,Diabetes,46.7,Medium Risk,0,1,False
+543,Diabetes,72.5,High Risk,1,1,True
+544,Diabetes,2.6,Low Risk,0,0,True
+545,Diabetes,4.3,Low Risk,0,0,True
+546,Diabetes,95.0,High Risk,1,1,True
+547,Diabetes,95.6,High Risk,1,1,True
+548,Diabetes,27.8,Low Risk,0,0,True
+549,Diabetes,26.0,Low Risk,0,0,True
+550,Diabetes,39.3,Medium Risk,0,0,True
+551,Diabetes,10.7,Low Risk,0,0,True
+552,Diabetes,4.3,Low Risk,0,0,True
+553,Diabetes,7.6,Low Risk,0,0,True
+554,Diabetes,2.9,Low Risk,0,0,True
+555,Diabetes,3.6,Low Risk,0,0,True
+556,Diabetes,3.2,Low Risk,0,0,True
+557,Diabetes,12.2,Low Risk,0,0,True
+558,Diabetes,34.8,Medium Risk,0,0,True
+559,Diabetes,48.2,Medium Risk,0,0,True
+560,Diabetes,8.2,Low Risk,0,0,True
+561,Diabetes,25.3,Low Risk,0,1,False
+562,Diabetes,93.6,High Risk,1,1,True
+563,Diabetes,3.0,Low Risk,0,0,True
+564,Diabetes,3.3,Low Risk,0,0,True
+565,Diabetes,5.0,Low Risk,0,0,True
+566,Diabetes,2.0,Low Risk,0,0,True
+567,Diabetes,7.4,Low Risk,0,0,True
+568,Diabetes,6.0,Low Risk,0,0,True
+569,Diabetes,38.1,Medium Risk,0,0,True
+570,Diabetes,47.2,Medium Risk,0,1,False
+571,Diabetes,6.4,Low Risk,0,0,True
+572,Diabetes,5.8,Low Risk,0,0,True
+573,Diabetes,7.0,Low Risk,0,0,True
+574,Diabetes,2.7,Low Risk,0,0,True
+575,Diabetes,29.4,Low Risk,0,0,True
+576,Diabetes,6.8,Low Risk,0,0,True
+577,Diabetes,4.7,Low Risk,0,0,True
+578,Diabetes,38.3,Medium Risk,0,1,False
+579,Diabetes,20.2,Low Risk,0,0,True
+580,Diabetes,92.0,High Risk,1,1,True
+581,Diabetes,69.2,High Risk,1,1,True
+582,Diabetes,2.6,Low Risk,0,0,True
+583,Diabetes,8.4,Low Risk,0,0,True
+584,Diabetes,30.0,Low Risk,0,0,True
+585,Diabetes,61.7,High Risk,1,1,True
+586,Diabetes,1.1,Low Risk,0,0,True
+587,Diabetes,80.1,High Risk,1,1,True
+588,Diabetes,4.5,Low Risk,0,0,True
+589,Diabetes,94.7,High Risk,1,1,True
+590,Diabetes,1.7,Low Risk,0,0,True
+591,Diabetes,91.9,High Risk,1,1,True
+592,Diabetes,7.7,Low Risk,0,0,True
+593,Diabetes,70.0,High Risk,1,1,True
+594,Diabetes,8.2,Low Risk,0,0,True
+595,Diabetes,35.6,Medium Risk,0,0,True
+596,Diabetes,82.4,High Risk,1,1,True
+597,Diabetes,6.5,Low Risk,0,0,True
+598,Diabetes,2.1,Low Risk,0,0,True
+599,Diabetes,93.8,High Risk,1,1,True
+600,Diabetes,3.0,Low Risk,0,0,True
+601,Diabetes,5.6,Low Risk,0,0,True
+602,Diabetes,3.0,Low Risk,0,0,True
+603,Diabetes,10.4,Low Risk,0,0,True
+604,Diabetes,81.3,High Risk,1,1,True
+605,Diabetes,89.6,High Risk,1,1,True
+606,Diabetes,19.8,Low Risk,0,0,True
+607,Diabetes,97.0,High Risk,1,1,True
+608,Diabetes,2.3,Low Risk,0,0,True
+609,Diabetes,29.1,Low Risk,0,0,True
+610,Diabetes,4.0,Low Risk,0,0,True
+611,Diabetes,5.1,Low Risk,0,0,True
+612,Diabetes,96.4,High Risk,1,1,True
+613,Diabetes,94.1,High Risk,1,1,True
+614,Diabetes,26.0,Low Risk,0,0,True
+615,Diabetes,82.7,High Risk,1,1,True
+616,Diabetes,3.4,Low Risk,0,0,True
+617,Diabetes,12.2,Low Risk,0,0,True
+618,Diabetes,1.9,Low Risk,0,0,True
+619,Diabetes,90.9,High Risk,1,1,True
+620,Diabetes,22.2,Low Risk,0,1,False
+621,Diabetes,18.0,Low Risk,0,0,True
+622,Diabetes,4.6,Low Risk,0,0,True
+623,Diabetes,15.9,Low Risk,0,0,True
+624,Diabetes,4.1,Low Risk,0,0,True
+625,Diabetes,12.2,Low Risk,0,0,True
+626,Diabetes,4.9,Low Risk,0,0,True
+627,Diabetes,4.5,Low Risk,0,0,True
+628,Diabetes,37.5,Medium Risk,0,0,True
+629,Diabetes,38.9,Medium Risk,0,0,True
+630,Diabetes,1.4,Low Risk,0,0,True
+631,Diabetes,47.6,Medium Risk,0,1,False
+632,Diabetes,8.1,Low Risk,0,0,True
+633,Diabetes,3.3,Low Risk,0,0,True
+634,Diabetes,5.0,Low Risk,0,0,True
+635,Diabetes,2.2,Low Risk,0,0,True
+636,Diabetes,32.6,Medium Risk,0,1,False
+637,Diabetes,17.3,Low Risk,0,0,True
+638,Diabetes,4.7,Low Risk,0,0,True
+639,Diabetes,56.4,Medium Risk,1,1,True
+640,Diabetes,4.9,Low Risk,0,0,True
+641,Diabetes,15.5,Low Risk,0,0,True
+642,Diabetes,25.2,Low Risk,0,0,True
+643,Diabetes,42.4,Medium Risk,0,1,False
+644,Diabetes,8.6,Low Risk,0,0,True
+645,Diabetes,25.6,Low Risk,0,0,True
+646,Diabetes,34.7,Medium Risk,0,0,True
+647,Diabetes,91.2,High Risk,1,1,True
+648,Diabetes,97.3,High Risk,1,1,True
+649,Diabetes,70.0,High Risk,1,1,True
+650,Diabetes,1.3,Low Risk,0,0,True
+651,Diabetes,1.0,Low Risk,0,0,True
+652,Diabetes,9.8,Low Risk,0,0,True
+653,Diabetes,12.0,Low Risk,0,0,True
+654,Diabetes,6.6,Low Risk,0,0,True
+655,Diabetes,6.5,Low Risk,0,0,True
+656,Diabetes,73.4,High Risk,1,1,True
+657,Diabetes,1.8,Low Risk,0,0,True
+658,Diabetes,21.5,Low Risk,0,0,True
+659,Diabetes,38.2,Medium Risk,0,0,True
+660,Diabetes,69.0,High Risk,1,1,True
+661,Diabetes,90.3,High Risk,1,0,False
+662,Diabetes,98.3,High Risk,1,1,True
+663,Diabetes,92.2,High Risk,1,1,True
+664,Diabetes,83.2,High Risk,1,1,True
+665,Diabetes,37.8,Medium Risk,0,1,False
+666,Diabetes,13.4,Low Risk,0,0,True
+667,Diabetes,70.5,High Risk,1,1,True
+668,Diabetes,55.9,Medium Risk,1,1,True
+669,Diabetes,27.4,Low Risk,0,0,True
+670,Diabetes,32.6,Medium Risk,0,0,True
+671,Diabetes,75.5,High Risk,1,0,False
+672,Diabetes,1.9,Low Risk,0,0,True
+673,Diabetes,17.4,Low Risk,0,0,True
+674,Diabetes,17.5,Low Risk,0,0,True
+675,Diabetes,19.9,Low Risk,0,0,True
+676,Diabetes,93.5,High Risk,1,1,True
+677,Diabetes,83.3,High Risk,1,1,True
+678,Diabetes,3.0,Low Risk,0,0,True
+679,Diabetes,16.8,Low Risk,0,1,False
+680,Diabetes,1.1,Low Risk,0,0,True
+681,Diabetes,1.1,Low Risk,0,0,True
+682,Diabetes,97.4,High Risk,1,1,True
+683,Diabetes,8.5,Low Risk,0,0,True
+684,Diabetes,50.3,Medium Risk,1,1,True
+685,Diabetes,28.8,Low Risk,0,0,True
+686,Diabetes,26.2,Low Risk,0,0,True
+687,Diabetes,6.3,Low Risk,0,0,True
+688,Diabetes,13.9,Low Risk,0,0,True
+689,Diabetes,8.5,Low Risk,0,0,True
+690,Diabetes,96.0,High Risk,1,1,True
+691,Diabetes,9.8,Low Risk,0,0,True
+692,Diabetes,85.5,High Risk,1,1,True
+693,Diabetes,28.8,Low Risk,0,0,True
+694,Diabetes,81.4,High Risk,1,1,True
+695,Diabetes,1.3,Low Risk,0,0,True
+696,Diabetes,77.6,High Risk,1,1,True
+697,Diabetes,88.9,High Risk,1,1,True
+698,Diabetes,2.9,Low Risk,0,0,True
+699,Diabetes,28.1,Low Risk,0,0,True
+700,Diabetes,38.7,Medium Risk,0,0,True
+701,Diabetes,8.7,Low Risk,0,0,True
+702,Diabetes,54.5,Medium Risk,1,1,True
+703,Diabetes,94.0,High Risk,1,1,True
+704,Diabetes,45.3,Medium Risk,0,0,True
+705,Diabetes,5.7,Low Risk,0,0,True
+706,Diabetes,2.8,Low Risk,0,0,True
+707,Diabetes,65.1,High Risk,1,1,True
+708,Diabetes,9.0,Low Risk,0,0,True
+709,Diabetes,90.7,High Risk,1,1,True
+710,Diabetes,49.4,Medium Risk,0,1,False
+711,Diabetes,26.1,Low Risk,0,0,True
+712,Diabetes,16.8,Low Risk,0,0,True
+713,Diabetes,79.0,High Risk,1,1,True
+714,Diabetes,5.0,Low Risk,0,0,True
+715,Diabetes,14.8,Low Risk,0,0,True
+716,Diabetes,97.1,High Risk,1,1,True
+717,Diabetes,93.8,High Risk,1,1,True
+718,Diabetes,6.8,Low Risk,0,0,True
+719,Diabetes,13.3,Low Risk,0,0,True
+720,Diabetes,32.5,Medium Risk,0,1,False
+721,Diabetes,6.7,Low Risk,0,0,True
+722,Diabetes,7.5,Low Risk,0,0,True
+723,Diabetes,56.7,Medium Risk,1,1,True
+724,Diabetes,18.7,Low Risk,0,0,True
+725,Diabetes,49.9,Medium Risk,0,0,True
+726,Diabetes,26.9,Low Risk,0,0,True
+727,Diabetes,19.4,Low Risk,0,0,True
+728,Diabetes,41.3,Medium Risk,0,0,True
+729,Diabetes,29.5,Low Risk,0,0,True
+730,Diabetes,3.0,Low Risk,0,0,True
+731,Diabetes,38.3,Medium Risk,0,1,False
+732,Diabetes,61.9,High Risk,1,1,True
+733,Diabetes,93.1,High Risk,1,1,True
+734,Diabetes,5.6,Low Risk,0,0,True
+735,Diabetes,11.9,Low Risk,0,0,True
+736,Diabetes,5.8,Low Risk,0,0,True
+737,Diabetes,12.1,Low Risk,0,0,True
+738,Diabetes,12.5,Low Risk,0,0,True
+739,Diabetes,5.6,Low Risk,0,0,True
+740,Diabetes,38.1,Medium Risk,0,1,False
+741,Diabetes,77.8,High Risk,1,1,True
+742,Diabetes,5.4,Low Risk,0,0,True
+743,Diabetes,3.5,Low Risk,0,0,True
+744,Diabetes,81.4,High Risk,1,1,True
+745,Diabetes,26.6,Low Risk,0,0,True
+746,Diabetes,23.9,Low Risk,0,0,True
+747,Diabetes,90.6,High Risk,1,1,True
+748,Diabetes,6.3,Low Risk,0,0,True
+749,Diabetes,92.1,High Risk,1,1,True
+750,Diabetes,88.5,High Risk,1,1,True
+751,Diabetes,83.7,High Risk,1,1,True
+752,Diabetes,15.1,Low Risk,0,0,True
+753,Diabetes,4.7,Low Risk,0,0,True
+754,Diabetes,88.2,High Risk,1,1,True
+755,Diabetes,83.8,High Risk,1,1,True
+756,Diabetes,61.7,High Risk,1,1,True
+757,Diabetes,70.9,High Risk,1,0,False
+758,Diabetes,65.6,High Risk,1,1,True
+759,Diabetes,9.1,Low Risk,0,0,True
+760,Diabetes,89.6,High Risk,1,1,True
+761,Diabetes,3.3,Low Risk,0,0,True
+762,Diabetes,96.6,High Risk,1,1,True
+763,Diabetes,2.3,Low Risk,0,0,True
+764,Diabetes,14.6,Low Risk,0,0,True
+765,Diabetes,19.4,Low Risk,0,0,True
+766,Diabetes,5.4,Low Risk,0,0,True
+767,Diabetes,59.0,Medium Risk,1,1,True
+768,Diabetes,4.0,Low Risk,0,0,True
