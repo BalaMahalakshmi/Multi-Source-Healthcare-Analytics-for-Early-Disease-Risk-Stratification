@@ -9,7 +9,7 @@ import numpy as np
 import pickle, os, sys, sqlite3
 import matplotlib.pyplot as plt
 import seaborn as sns
-from datetime import datetime
+from datetime import datetime 
 
 sys.path.insert(0, ".")
 
@@ -599,7 +599,7 @@ elif "Database" in page:
             p_risk    = st.selectbox("Risk Category",["Low Risk","Medium Risk","High Risk"])
             p_score   = st.slider("Risk Score %", 0.0, 100.0, 50.0)
             if st.form_submit_button("Save Patient"):
-                from step7_database import add_patient, save_prediction
+                from database import add_patient, save_prediction
                 pid = add_patient(p_name, int(p_age), p_sex)
                 save_prediction(pid, p_disease, p_score/100, p_risk, "Manual Entry")
                 st.success(f"✅ Saved '{p_name}' (ID: {pid})"); st.rerun()
@@ -615,7 +615,7 @@ elif "Batch" in page:
     st.markdown("---")
     if st.button("▶️ Run Batch Predictions", type="primary", use_container_width=True):
         with st.spinner("Running predictions on 1,688 patients..."):
-            from step8_batch_prediction import run_batch_predictions
+            from batch_prediction import run_batch_predictions
             df = run_batch_predictions()
             st.session_state["batch_df"] = df
         st.success(f"✅ Done! {len(df):,} predictions completed.")
@@ -694,7 +694,7 @@ elif "Report" in page:
     # Generate PDF
     if st.button("📄 Generate PDF Report", type="primary", use_container_width=True):
         try:
-            from step9_generate_report import generate_pdf_report, REPORTLAB_AVAILABLE
+            from generate_report import generate_pdf_report, REPORTLAB_AVAILABLE
             if not REPORTLAB_AVAILABLE:
                 st.error("Install ReportLab first: pip install reportlab")
             else:
@@ -801,7 +801,7 @@ elif "Report" in page:
             else:
                 with st.spinner(f"Sending report to {patient_email}..."):
                     try:
-                        from step10_send_email import send_report_email
+                        from send_email import send_report_email
                         result = send_report_email(
                             sender_email    = sender_email,
                             sender_password = sender_password,
